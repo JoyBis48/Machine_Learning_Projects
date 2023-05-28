@@ -14,8 +14,6 @@ The dataset will usually be stored in a local resource, but in case the need ari
 First we need to choose an appropriate cloud storage provider such as Google Cloud, Dropbox, Amazon S3, Oracle Cloud storage etc. After that is sorted, we would have to create an account and configure the storage options present to meet the specific requirements. Once the cloud based storage is set up, it is time to transfer the dataset from the local storage to the cloud. This may involve exporting the data in a suitable format for the proper storage and future utilisation.
 Finally, the data analysis and processing workflows need  to be adjusted to account for the new cloud based storage location, by changing the location of the filepath of the dataset and any other means. In this way, we would be able to work with datasets that are stored in cloud.
 
-## 3) Analysis 
-The analysis has been done below.
 
 ## 4) Recommendation/Conclusion 
 Explorataory Analysis of the dataset gave us many insights on the various relationships among the loan attributes. The Decision Tree Classifier used for the prediction of loan status of the borrower showed a training score of 0.9747 and a testing score of 0.9745. Both of the score is quite high and similar, which suggests that the model is likely not overfitting to the training data. The Confusion Matrix generated after the classification shows a 1.01 % of false positive and a 1.53 % of False Negative. The f1 score and accuracy of the prediction is 0.9743 and 0.9745 respectively.
