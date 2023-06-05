@@ -8,3 +8,4 @@ Link :-   https://www.kaggle.com/datasets/akshaydattatraykhare/diabetes-dataset
 
 ## Conclusion
 The Random Forest Classifier used for the prediction of diabetic patients showed a training score of 0.950 and a testing score of 0.858. Both of the score is quite high and similar, which suggests that the model is likely not overfitting to the training data. The Confusion Matrix generated after the classification shows a 9.09 % of false positive and a 5.11 % of False Negative. The f1 score and accuracy of the prediction is 0.857 and 0.858 respectively.
+Note that the score might deviate very slightly each time this notebook is run.
