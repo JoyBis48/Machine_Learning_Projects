@@ -1,0 +1,349 @@
+<INDIVIDUAL>
+<ID>test_subject4891</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-11 21:42:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> mental ray for Maya 2015 
+mental ray: version 3.12.1.12, Feb  1 2014, revision 213714
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+LINK 0.0      8 MB error  191007: cannot load C:/Program Files/Autodesk/mentalrayForMaya2015/shaders/mayabase.dll, The specified procedure could not be found.
+LINK 0.0      8 MB error  191012: Unable to load file: mayabase.dll
+PHEN 0.3     10 MB error  051011: shader "maya_shaderglow" not found
+PHEN 0.3     10 MB error  051011: shader "adskMayaVolumeEngine" not found
+PHEN 0.3     10 MB error  051011: shader "maya_state" not found
+DBN  0.4     16 MB error  561001: invalid topology, object will not be tessellated
+GAPM 0.4     16 MB warn   092001: tessellation empty for object "meshShape"
+IMG  0.3     13 MB warn   102002: type rgba_h not supported by iff format, using default type rgba
+Rendering using 4 threads.
+A default light has been created, modify defaultRenderGlobals.enableDefaultLight to change this behavior.
+Automatic near/far clipping values: 9.98146, 18.296.
+Starting Rendering C:/Users/Admin/Desktop/maya characters/images/tmp/untitled.iff.
+Constructing shading groups
+
+Rendering current frame.
+
+Frame triangle count: 55558
+====================================
+Resource Usage At End Of Frame
+====================================
+ 1004308	Page faults
+ 789.770 Mb	Max resident size
+ 785.000 Mb	Peak total size(Estimated)
+ 122.981 Mb	Peak arena size
+====================================
+ 778.324 Mb	Current
+  85.938 Mb	MEL
+   0.135 Mb	arguments
+   0.328 Mb	Data Blocks
+   0.279 Mb	Pixel Map
+   7.109 Mb	Arrays
+   0.124 Mb	Transforms
+   0.007 Mb	Render Geometry Arena
+  11.346 Mb	Render Cache
+   0.012 Mb	File Texture Mipmaps
+   0.636 Mb	POLY_DRAW_CACHE_STATIC_DATA
+====================================
+Postprocessing rendering result.
+Time For Tessellation (hh:mm:ss): 00:00:00
+Time For Shadow Map   (hh:mm:ss): 00:00:00
+Time For Post Process (hh:mm:ss): 00:00:00
+Time For Frame Render (hh:mm:ss): 00:00:00
+Finished Rendering C:/Users/Admin/Desktop/maya characters/images/tmp/untitled.iff.
+
+------------------------------------------------------------
+
+
+PHEN 0.3     12 MB error  051011: shader "maya_shaderglow" not found
+PHEN 0.3     12 MB error  051011: shader "adskMayaVolumeEngine" not found
+PHEN 0.3     12 MB error  051011: shader "maya_state" not found
+DBN  0.3     16 MB error  561001: invalid topology, object will not be tessellated
+GAPM 0.3     16 MB warn   092001: tessellation empty for object "meshShape"
+IMG  0.3     13 MB warn   102002: type rgba_h not supported by iff format, using default type rgb
+
+you might want to know this </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm animating cgi for a film and discovered ptex, but when I try to export the textures on my model, I get an invalid argument error? I know this isn't r/ vfx, but I'm on a time stress, I need answers! </TITLE>
+	<DATE> 2015-03-10 17:39:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm trying to get my ptex from mudbox to maya, but the textures won't extract.
+http://imgur.com/tHLAMLI </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Trying to extract ptex maps from mudbox but I get an invalid argument error? </TITLE>
+	<DATE> 2015-03-10 08:18:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   I want to send to maya. Yet when I use the send to maya command, the textures are black. I need to fix the textures being black, or fix the map extract not working. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Last question, then I'll stop bombarding this sub: I fixed my ptex problem, but when I hit 6, the imported ptex is all black. </TITLE>
+	<DATE> 2015-03-10 00:34:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Mudbox refuses to send meshes to maya. </TITLE>
+	<DATE> 2015-03-09 19:00:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Any fixes? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Whenever I send a model with ptex textures to maya, this happens. What do I do? If I can't do anything else, is there any way to export to maya with the ptex textures via .fbx or .obj files? </TITLE>
+	<DATE> 2015-03-09 03:31:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-09 03:26:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Track of course! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where do I go to add textures in element 3d v2? </TITLE>
+	<DATE> 2015-03-08 18:41:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's a very different interface from v1. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I don't 3 step when I hurdle. Lui Xiang dosen' t. Is 3 stepping mandatory? </TITLE>
+	<DATE> 2015-03-08 02:37:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-08 01:04:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Olay </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've ptex painted in mudbox, now I want to bring the model and it's textures into maya so I can render and animate it, what do I do? </TITLE>
+	<DATE> 2015-03-07 21:27:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Element 3d: how do I box map an animated sequence? </TITLE>
+	<DATE> 2015-03-04 05:20:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No, I don't want an animated video texture like something on an iPhone screen, I have a maya obj sequence where a ship is flying and I've brought it into element. The only thing is, It won't allow me to box map the model in the animation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-04 03:41:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Obj sequences. I figured out obj sequences. By the way, when you open an obj sequence, do you want to click and import the very first frame or the very last one? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I export obj sequences in Maya 2015? </TITLE>
+	<DATE> 2015-03-04 01:42:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-03 21:42:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well how do I bring the textures into element?i don't see the materials showing up </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I created a model and textured it in blender. How do I take that model with all it's textures on it and import it into element 3d? </TITLE>
+	<DATE> 2015-03-03 17:50:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I want the model WITH its textures on it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I import textures and shaders into element 3d? Also, how do I import animations into element? </TITLE>
+	<DATE> 2015-03-03 04:01:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Please answer both questions. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I transfer applications like ae and autodesk maya from a hardrive to a solid state hardrive? </TITLE>
+	<DATE> 2015-03-02 00:51:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Explain please. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is it possible to texture without unwrapping? </TITLE>
+	<DATE> 2015-03-01 01:56:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Will element 3d v1.6 work with these specs? </TITLE>
+	<DATE> 2015-02-27 00:14:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Element 3d v2 not working. I think I have the same problem as this guy in the link: a corrupt opencl.dll file. What do I do to find as well as remove or replace this file? </TITLE>
+	<DATE> 2015-02-25 18:29:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I have element 3d v2, and I think I have the same problem as this guy, it won't load: I think it's a corrupt openCL file. How do I find and remove this corrupt file? </TITLE>
+	<DATE> 2015-02-25 14:12:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-25 03:56:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wheres  a good place to upgrade? I one time found a place selling cs6 upgrade for $150 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-25 02:48:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why would I need to do that? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Element3d.aex could not load? </TITLE>
+	<DATE> 2015-02-25 02:13:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/ZkLhmml
+
+ Please help. I'm so frustrated.
+I have a 64 bit windows computer. I believe I have nvidia GTX video cards. I don't see why element 3d for after effects won't work? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> WHAT DO I DO? I am engulfed in frustration! </TITLE>
+	<DATE> 2015-02-25 01:49:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is YouTube ad revenue considered non commercial? </TITLE>
+	<DATE> 2015-02-24 04:59:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm using a software designated for educational use, and I want to showcase my work and tutorials to students and my audience. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-24 04:16:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Where can I find the student terms of use? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-24 03:17:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ok, on a side note, Im using student version. Can I use my animations in YouTube videos and allow YouTube to put ads in my videos. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm a sutdent, can I use my Autodesk softwares in YouTube videos? </TITLE>
+	<DATE> 2015-02-24 03:00:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   What if I used ads? It's not commercial use. I'm not directly gaining money. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> (Posting from Mobile phone, crappy imgur photo) How do I fix this rig? The area under the arm becomes distorted when I try to pose my character's arms </TITLE>
+	<DATE> 2015-02-24 02:31:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-23 17:12:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I need help with binding rigs to arms </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Whenever I try to bind joints onto an arm, this happens; what do? </TITLE>
+	<DATE> 2015-02-23 04:21:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-22 23:26:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Pardon my newfagness. I'm stressed. I'm working on a film and trying to import shit to Max and Maya and everywhere. Anyway, thanks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Step by step guide to download in rigify script for blender. </TITLE>
+	<DATE> 2015-02-22 21:19:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Please help. Don't tell me to look up on google. give me a straight step by step guide right here. I'm on a time constraint. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-22 08:20:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Will it also import the rigs too? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Element3d.aex could not be loaded. What do R/ vfx? </TITLE>
+	<DATE> 2015-02-22 07:02:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://m.imgur.com/hrqxkem </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-21 20:19:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You should note that I had deleted the shortcuts then tried to redowlad maya </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-21 20:10:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://imgur.com/XQmnmeQ
+It says I've downloaded the software yet I can't find it anywhere on my computer  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-21 18:51:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is it that simple? I don't need any extra scripts or plugins?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I import .blend files to maya? </TITLE>
+	<DATE> 2015-02-21 04:48:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tips for downloading Maya student edition 2015? </TITLE>
+	<DATE> 2015-02-21 00:07:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Install now, download now, or browser download?
+
+ What steps do I take? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-21 00:07:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well o got it so I guess this thread is kill </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Need help downloading educational student version? </TITLE>
+	<DATE> 2015-02-20 04:46:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've tried install now and download now, both of which didn't work for some reason. So now I'm trying browser download. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-19 17:53:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Would I be able I use that for my youtube short films? Also, will I be able to get the software every year for free? Like do I need to confirm I'm a student? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-19 06:05:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> B H = discounts galore </TEXT>
+</WRITING>
+</INDIVIDUAL>

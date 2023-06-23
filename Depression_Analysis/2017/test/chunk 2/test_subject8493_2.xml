@@ -1,0 +1,121 @@
+<INDIVIDUAL>
+<ID>test_subject8493</ID>
+<WRITING>
+	<TITLE> Collection of Web Developer Tools, per Browser </TITLE>
+	<DATE> 2008-04-10 01:46:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-04-09 17:07:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh, well. I guess I'd better stop using Ruby then. It was fun while it lasted.
+
+Seriously though, I think Ruby/Python comparisons are unhelpful. Both are good, complete, mature languages, similar, but different. They both have good web frameworks. Some programmers seem to "click" with one approach more than the other, and that's natural too--our brains don't all work the same. A programmer with experience in one who "tries out" the other will probably be disappointed, and while they can have a helpful fresh perspective and spot issues that need to be corrected, many of their negative reactions generally result from a lack of experience with the new language and familiarity with the old (and therefore largely irrelevant).
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Introduction to Merb and DataMapper </TITLE>
+	<DATE> 2008-04-09 16:56:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-04-05 21:44:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Looks very useful. Beast (http://beast.caboo.se/) is my favorite Rails forum (and Mephisto my favorite blogging system). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Savage Beast 2.0 - A Rails 2.0 Message Forum Plugin </TITLE>
+	<DATE> 2008-04-05 21:42:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rails Admins Plugins Review </TITLE>
+	<DATE> 2008-04-04 23:29:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Git scores again: Rails is moving from SVN to Git </TITLE>
+	<DATE> 2008-04-03 01:30:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Explore great/poor code: Slick or Slack </TITLE>
+	<DATE> 2008-04-01 22:15:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-03-26 22:54:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Completely agree with you on the plugins. There are quite a few plugins that are much more widely used (and useful) than a basic admin interface.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-03-26 22:52:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Does *anyone* still use Windows?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-03-26 21:10:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice to see a comparison that's not slanted or flame-throwing.
+
+Unfortunately, while the presentation prominently features the Admin advantage from Django, it fails to mention that AjaxScaffold (and several others) provide similar (or more) functionality for Rails. Having said that, most sites need a more customized Admin interface than provided by either Django or AjaxScaffold and the like, so the advantage provided by either is more likely to be leveraged only while prototyping or as a "extra". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rails/Django Comparison </TITLE>
+	<DATE> 2008-03-26 21:07:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is Windows a First Class Platform for Ruby? </TITLE>
+	<DATE> 2008-03-26 21:01:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Running with Shoes - Tasty Text </TITLE>
+	<DATE> 2008-03-24 13:27:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wrap all relevant attributes in a single params key </TITLE>
+	<DATE> 2008-03-24 13:25:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-03-07 16:25:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> As far as a beginner's programming language, I think Ruby is better than PHP. I've found Ruby easy enough for my 9 year old daughter to learn and write programs in. PHP handicaps you by not forcing you to think in an object oriented fashion, which you'll have to learn eventually anyway. PHP is nice for putting up a quick webpage (and certainly easier to deploy than Ruby), but doesn't provide a solid programming foundation (which it was never intended for anyway). Ruby is very well thought-out and structured. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-03-07 16:12:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> words = %w(zero one two three four five six seven eight nine)
+
+(it's nice not to have to hassle with all the quote marks)
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rails: How to send multipart/alternative e-mail with inline attachments  </TITLE>
+	<DATE> 2008-02-21 17:07:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

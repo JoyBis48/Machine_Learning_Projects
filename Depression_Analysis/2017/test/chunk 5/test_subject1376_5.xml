@@ -1,0 +1,228 @@
+<INDIVIDUAL>
+<ID>test_subject1376</ID>
+<WRITING>
+	<TITLE> Simple iOS design guidelines that will assist you in selecting the dimensions for your AppStore assets </TITLE>
+	<DATE> 2015-01-16 04:59:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-15 22:36:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> All gnomes are double agents. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-15 22:36:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you make something grand share the codepen url. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-15 05:33:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've read git isn't really the best for [binary files](https://robinwinslow.co.uk/2013/06/11/dont-ever-commit-binary-files-to-git/). If you're looking for something more for backing up your work check out [extended version history](https://www.dropbox.com/en/help/113) in dropbox. Other services like google drive might have something similar though I haven't looked. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-15 05:13:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're interested in animating read up on [SMIL](http://www.w3.org/TR/SMIL3/smil-animation.html#animationNS-AnimationModel) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-14 23:57:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here is some light reading for those sleepless nights http://www.w3.org/TR/SVG11/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Remember when the UX community thought a "unicorn" was someone who did both interaction and visual design? </TITLE>
+	<DATE> 2015-01-14 23:13:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-14 22:40:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can see how it's misleading now thanks, I think I updated the article in a way that makes my intentions more clear. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-14 20:57:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> A good place for me (and many designers) to start is by tinkering with the code that makes the stuff run. You can [play with the examples in the article on codepen](http://codepen.io/ryanallen/pen/OPpbbR) without making an account or spending time setting up a dev environment.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-14 20:49:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah view it here: http://codepen.io/ryanallen/pen/OPpbbR
+
+Ironically enough, the medium.com publishing platform doesn't support .svg files at this time (or embedding codepens), the animation at the top is actually a gif :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SVG's are more popular now more than ever, learn how to create and animate a loading icon in 5 minutes </TITLE>
+	<DATE> 2015-01-14 16:20:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Still a good read after 15 years. </TITLE>
+	<DATE> 2015-01-12 22:05:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-07 23:30:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What are your pros and cons with polymer so far? I've been anticipating playing with it. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> An excellent look into Illustrator's spiral tool for advanced design ornamentation </TITLE>
+	<DATE> 2015-01-07 22:06:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What's so great about bower? </TITLE>
+	<DATE> 2015-01-07 21:28:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> An Intro to SVG Animation </TITLE>
+	<DATE> 2015-01-06 16:19:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-05 18:32:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The way I learned how to do it was by drawing curved shapes in a vector drawing program (sketch, illustrator etc) and exporting to SVG to take the code apart. 
+
+After that I began reading the w3 spec recencyeffect posted to learn all the hidden goodies.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-05 15:23:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's for a section in a larger piece for a web based project. The entire piece will be [animated](http://www.w3.org/TR/SVG/animate.html) in code.  I never thought I would do pixel art in a vector program until recently, though I believe hexels is vector based but I haven't used it in a while.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-05 00:16:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I suppose I formed a bad habit early and never thought to do it any differently. I'm glad I finally took the time though :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-03 16:37:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What is the most frustrating thing about working with IE8? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-03 15:47:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have never had a reason to use more than one background image until now. I fear there are thousands of small things like this I'll never have a need to know. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did you know a div can have multiple background images in multiple positions </TITLE>
+	<DATE> 2015-01-03 15:23:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-29 02:47:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks my secret is proper hydration. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-28 18:55:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, I updated the markdown title. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I never knew SASS let you mix and match underscores and dashes </TITLE>
+	<DATE> 2014-12-28 05:32:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-22 21:44:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks for this, I may try something similar for a star twinkle animation and it's useful to have samples to reference. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Stay DRY by setting your SCSS image path locations as a variable </TITLE>
+	<DATE> 2014-12-22 21:15:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>     $img-path: "../../img/";
+ 
+    body {
+      background: url(#{$img-path}astronaut-ryan.svg) no-repeat fixed 0 0;
+    } </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The 4 Different Ways Adobe Illustrator Structures the CSS in SVGs </TITLE>
+	<DATE> 2014-12-22 02:06:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-21 20:12:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Trade Dev time for whichever current hobby consumes the most of your time. If you play video games for a few hours everynight try spending that time on your portfolio during the week and "cheating" on the weekends when you can resume the hobby for a nice break.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-19 20:09:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You just blew my mind as well. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've been working in Illustrator since version 6 and I still catch glimpses of settings I have no comprehension of on a daily basis. </TITLE>
+	<DATE> 2014-12-19 17:33:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-19 05:29:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wow, that's amazing. I have a lot of polishing left to do on my current animations apparently. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-17 21:42:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Maybe try making the gradient greyscale and then applying a lumosity blending mode to it http://helpx.adobe.com/illustrator/using/transparency-blending-modes.html#about_blending_modes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-17 21:05:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Think of it as the opportunity to do an art project in a week. Make a website advertising your favorite super hero's services. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-17 16:14:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm not sure what you're asking. Do you want advice on how to create more things for a portfolio? So you want critiques on what you've already done? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-15 15:59:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The [top is empty](http://imgur.com/uXCv6kZ) on safari in ios8 </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,226 @@
+<INDIVIDUAL>
+<ID>test_subject9196</ID>
+<WRITING>
+	<TITLE> How I feel about my 59 that I pressed on day 1 by now... </TITLE>
+	<DATE> 2015-04-04 14:27:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-03 22:10:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Any opinion on Cruton, any issues worth taking into account? I'm considering buying Pixel LS as it is 700$ cheaper than MacBook Pro (EU here) for Android development so Ubuntu will be my primary OS. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> All new comers be like... </TITLE>
+	<DATE> 2015-04-02 21:45:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-30 22:33:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sure it can be, most likely a drawable inside it.
+But in this way I avoid most of the problems of for example, keeping size, and detecting text bottom line.
+
+EDIT: you can even find a branch with such Drawable instead of 3 textviews on this repo. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Waiting dots bounce effect [Library] </TITLE>
+	<DATE> 2015-03-30 20:34:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-28 10:52:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good try of avoiding a pop dialog of Superuser:
+
+https://gist.github.com/stefanhoth/d52cd6cb2174bf6e395d </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Using RemoteInput to respond to any* messanger app notifications (Messenger, Telegram...) - like Pushbullet, explained! </TITLE>
+	<DATE> 2015-03-26 09:09:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-24 08:29:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually they work in Telegram, and are pretty great (later on you can easily search by some hashtag). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Glide vs Picasso </TITLE>
+	<DATE> 2015-03-23 22:23:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-21 23:52:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it extracts its RemoteInput correctly, set text, and send it back but Hangouts does ignore that text.
+Just tested with Messenger - it works correctly. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-21 23:23:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I have created sample project with it, and actually it is working.. for every other app except Hangouts (didn't test with other like Messenger).
+https://github.com/tajchert/NotificationResponse
+Probably they require some additional Id or use other way of getting RemoteInput. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-21 01:44:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What tool did you used to decompile? I used 3 different (dex2jar, some online one, and ShowJava app), each time with different results. ShowJava at leasts shows some method in BaseMirror class, that is Wearable related.
+
+"static Mirroring$WearReplyAction a(NotificationSpec var0) {"
+but body is invisible due to some error. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-21 00:00:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry, I found it later on (class) but there is still no code for extracting actions as you described.
+Here is my BaseMirror class: http://pastebin.com/WDLV5yap
+I have downloaded APK from Google Play (not extracted from the phone). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-20 16:03:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have decompiled latest apk and can't find this class at all (neither "android.wearable.EXTENSIONS") any ideas where is it or what I'm doing wrong? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-12 20:35:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How about Android TV? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-04 10:04:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm aware of that - thus I wrote this is (very) small lib. It just save you work of setting up GoogleApiClient. So instead of those 80 lines of code you just wrote around 25. I found it useful in some of my project thus decided to make it a lib. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Library] Just created small lib to detect Android Wear users, and handle connection events. </TITLE>
+	<DATE> 2015-03-04 01:19:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-25 23:23:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Student loans </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-25 09:08:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just /r/Android
+
+http://www.reddit.com/r/Android/comments/1uvt84/made_a_clockwidget_with_events_marked_as_colored/
+
+From there it went to AndroidPolice and all other tech news sites. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-24 22:10:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 36 days, thanks to Reddit. No other marketing, 0$ budget. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-19 12:37:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is Yarn open sourced? Or how is this connected to "dev"? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-02-17 01:43:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi, sorry but I don't have knowladge to help you but did you shared your code? Would love to take a look how to write own simple keyboard and there are very few resources with samples. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-30 11:05:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you! I didn't know that one already exists. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-29 23:43:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That lib is solving a problem that not many people are aware of - if you get a exception/crash on Android Wear device it **won't be reported in Google Play** - so you will get many 1 star reviews and no crash reports. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Library] Which will handle all your exceptions from Android Wear </TITLE>
+	<DATE> 2015-01-29 23:41:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-27 18:06:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Do not forget to add license as well (for public ones at least). </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Things are getting pretty serious </TITLE>
+	<DATE> 2015-01-27 14:41:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> MRW mods are adding a new rule when something happens </TITLE>
+	<DATE> 2015-01-20 16:51:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> OP's reaction about Jenny </TITLE>
+	<DATE> 2015-01-20 16:35:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> PI with multiple cams and live stream </TITLE>
+	<DATE> 2015-01-20 16:22:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-19 09:06:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dev? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-19 03:17:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> G+ source: https://plus.google.com/u/0/+TonySalinasLeDerpyDerp/posts </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This guy... king of all samshills! </TITLE>
+	<DATE> 2015-01-19 03:17:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-01-13 01:22:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Is there better res of "yes we code"?
+
+Edit: source: https://octodex.github.com/baracktocat/ so it doesn't look like there is one. </TEXT>
+</WRITING>
+</INDIVIDUAL>

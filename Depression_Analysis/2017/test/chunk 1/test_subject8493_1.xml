@@ -1,0 +1,115 @@
+<INDIVIDUAL>
+<ID>test_subject8493</ID>
+<WRITING>
+	<TITLE> How to Build a Twitter Agent  </TITLE>
+	<DATE> 2008-02-18 00:25:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> When - enhancing :before_filter </TITLE>
+	<DATE> 2008-02-15 16:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-02-12 22:58:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rubular (http://www.rubular.com/) is also very helpful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-02-12 01:52:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I find NB to be quite good for both plain Ruby, and Rails development. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Collecting the Garbage in Ruby </TITLE>
+	<DATE> 2008-02-07 22:53:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-02-07 20:12:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's the irony: A good programmer will write more and better test code because they are more aware of what could possibly go wrong; however their code already reflects their awareness of those potential problems, and therefore while the tests help, they are in a way a double-check for something that they've already well covered in their code.  On the other hand, a poor or novice programmer will have less awareness of what could possibly go wrong, and therefore won't account for those things in their code, but because they're unaware of them, won't write proper tests that would catch those potential problems. So in either case, the helpfulness of tests is limited; the former because their code is generally good enough without the tests, and the latter because their knowledge is too poor to write good tests, and once they're knowledge increases their code gets better and therefore their need for tests decreases.
+
+That doesn't mean tests are not useful. Where I believe they shine is not in catching defective code, but in making sure that a change made to one piece of code doesn't break something somewhere else that may seem unrelated (or that you didn't remember was related), without having to "manually" test the app by running through all the steps. The larger and more complex the app, the more important this becomes and saves countless hours of checking to see if everything still works. 
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>  Testing metrics and confidence </TITLE>
+	<DATE> 2008-02-07 17:14:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Ultimate List of RubyCocoa Tutorials, Tips and Tools </TITLE>
+	<DATE> 2008-02-07 15:07:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Obie Fernandez: Ten Reasons Why I Support Barack Obama for President </TITLE>
+	<DATE> 2008-02-05 16:38:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>  21 Merb Links, Tutorials and Other Resources  </TITLE>
+	<DATE> 2008-02-05 16:29:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Jay Fields Thoughts: Static typing considered harmful </TITLE>
+	<DATE> 2008-02-05 16:28:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Codefluency: Ruby 1.9 Presentation </TITLE>
+	<DATE> 2008-02-05 16:27:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> scie.nti.st  Vlad the Deployer and Git  </TITLE>
+	<DATE> 2008-02-05 16:17:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Using Git within a project (forking around) </TITLE>
+	<DATE> 2008-02-03 16:00:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-02-03 00:29:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> +1 Lets focus on more important things. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-02-02 23:53:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Datamapper (http://datamapper.rubyforge.org/) is promising too. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-01-29 16:26:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> +1 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-01-29 02:16:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If the time that you saved writing significantly shorter but more obtuse code is then lost when trying to read that code later (or someone else trying to read the code), then you didn't save any time.  </TEXT>
+</WRITING>
+</INDIVIDUAL>

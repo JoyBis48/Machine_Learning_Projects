@@ -1,0 +1,121 @@
+<INDIVIDUAL>
+<ID>test_subject8493</ID>
+<WRITING>
+	<TITLE> thoughtbot: Shoulda testing plugin </TITLE>
+	<DATE> 2008-09-18 22:44:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-09-18 22:42:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've seen a lot of Rails attachment-handling plugins, but this is the first one I've really liked.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> thoughtbot: Paperclip File Attachments </TITLE>
+	<DATE> 2008-09-18 22:36:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Active Record tips and tricks </TITLE>
+	<DATE> 2008-09-17 23:14:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-09-08 19:08:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I meant to write MySQL but actually should have just dropped the My as the principles apply to other SQL DBs. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Inspecting/Testing My SQL queries in Rails </TITLE>
+	<DATE> 2008-09-07 21:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-07-15 18:43:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've use NB a fair bit and find it to be pretty good; I haven't noticed any speed issues that slow me down. When it comes to debugging, while the breakpoints and variable inspect features are nice, what I really want is a full IRB session at a breakpoint (as you would get using ruby-debug from the command line). It's much faster to not only inspect variables using IRB, but you can then run commands on the data and see what's happening. It's on the feature list for NB, but not sure when the team will get to it. On the overall, kudos to the team (and it's free).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> acts_as_what? </TITLE>
+	<DATE> 2008-07-10 18:45:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-07-02 07:22:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Very well put. I'm grateful for the time ruby-core puts into maintaining the language, but I hope they read this article and take some notes.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-06-19 17:46:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There are a lot of tips and tricks on the web as to how to do things better/faster/cooler with Ruby/Rails. But there's not enough talk about how to make sure your site is secure with Ruby/Rails.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ruby on Rails Security Project </TITLE>
+	<DATE> 2008-06-19 17:45:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-06-14 17:53:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> another, perhaps easier way, is to run "gem server --daemon" which gives you access to all of your gem docs at localhost:8808 (or another port of your choice).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DataMapper 0.9 - a major update </TITLE>
+	<DATE> 2008-06-14 17:43:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hivelogic - Title Case for Ruby </TITLE>
+	<DATE> 2008-05-22 16:44:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-05-17 20:10:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Start with: http://pine.fm/LearnToProgram/
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-05-17 20:06:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why do you need squeak to teach them variables or OO programming? In teaching my daughter Ruby I just used real-world examples such as a Ball is an "object". It has "properties" such as the size and the color. There are certain things you can do with it, "methods", such as throw it or squish it. Variables are pigeonholes where you can put something you might need later. Some you can access only while in the same room (local), the same house (class), or from anywhere in the world (global). Etc. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-05-17 20:03:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It works :-) 
+
+Hackety Hack is a great idea, and I've tried it. But it's only about halfway there and the author (brillant as he is) has lost interest and moved on to other tools (like the more brillant Shoes; now that's something you could use for child programming).  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-05-14 16:45:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree. I've look and tried the various "child-oriented" programming options (Logo, KTurtle, Squeak, Scratch), and while it's true that it might get them interested in programming, it's better to introduce them to a language that they can build on to create more and better programs. (On the other hand, something like Scratch might be great for a 5 year old.) I think that it's best children learn the underlying tools rather than an automated tool that becomes a crutch (think Frontpage) that later limits you. I taught my 9-year-old daughter HTML and CSS and she hand-coded her own site from scratch. We then moved to Ruby on the console, and now she's 10 and we're porting the console-based Ruby program she wrote to a Web app with Rails, combining what she learned from HTML, CSS and Ruby. She has a perfect understanding of OO programming (Ruby is great for that), and is learning tools with which she can create "real" programs (or pick up another language like Python). </TEXT>
+</WRITING>
+</INDIVIDUAL>

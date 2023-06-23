@@ -1,0 +1,339 @@
+<INDIVIDUAL>
+<ID>test_subject4937</ID>
+<WRITING>
+	<TITLE> [Biased but Useful] Why Hadoop Clusters Require a Cluster Manager </TITLE>
+	<DATE> 2014-02-14 01:05:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Biased but Useful] Scaling MongoDB - A Presentation </TITLE>
+	<DATE> 2014-02-14 00:40:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Imaging Proteins One Single Millimeter Thick </TITLE>
+	<DATE> 2014-02-14 00:30:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Scoverage, a code coverage plugin for SBT </TITLE>
+	<DATE> 2014-02-13 23:23:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Overview of Probabilistic Programming </TITLE>
+	<DATE> 2014-02-13 23:21:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-12 20:41:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There is a certain sense I get among the supercomputing elite that Hadoop is technology for Web 2.0 companies, that's there's no relevance. It's an unwillingness to experiment. That seems unfortunate because most of their workloads look a lot more like big data analytics (they would cringe to hear that) than they do strict floating point stuff. SDSC is the only real center where development work on this is actually translating into real applications being run...and guess what, they're running more efficiently. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Free Stanford University Book on Mining Massive Datasets </TITLE>
+	<DATE> 2014-02-12 20:11:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How HPC is Hacking Hadoop </TITLE>
+	<DATE> 2014-02-12 19:19:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> SageMathCloud Sees More Users on Horizon </TITLE>
+	<DATE> 2014-02-12 17:33:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fermilab's Neutrino Detector Sees Its First Particles </TITLE>
+	<DATE> 2014-02-12 17:28:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-12 17:26:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes, it's a big European event, from what I've been told. I'm only considering because I'll be at ISC the week before (and already overseas). Had planned on working in some other travel but not sure if this is going to worth the time. The technical program is quite solid--lots of involvement from CERN and research agencies there.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Biased but Useful] Four Myths About In-Memory Computing </TITLE>
+	<DATE> 2014-02-12 08:24:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-12 05:59:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Out in Oregon where all the folks are building their massive datacenters (not supercomputers, to be fair--but just as many cores), this is becoming a huge concern. At some point, they're going to have to move to greener pastures (literally)... not sure how this issue isn't at the forefront of people's minds--don't even see anything about it in the disaster recovery space much. Yet meanwhile, look at the situation the whole West Coast was in... not to be dramatic about it, but this is a growing concern. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How Will Big Datacenters Weather a Drought? </TITLE>
+	<DATE> 2014-02-12 02:37:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Any HPC'ers Go to TERATEC? Opinions? </TITLE>
+	<DATE> 2014-02-12 02:34:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Supercomputing Key to Financial Recovery in Manufacturing </TITLE>
+	<DATE> 2014-02-12 02:23:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Modern Retail Architectures Built on Hadoop </TITLE>
+	<DATE> 2014-02-12 02:11:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A Timely Network Challenge of Olympic Proportions </TITLE>
+	<DATE> 2014-02-12 02:10:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How NetApp is Using Hadoop for its Internal Ops </TITLE>
+	<DATE> 2014-02-12 01:35:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-12 00:24:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, can't blame you there--and I think I've heard the same general statement more than once in the last couple weeks. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> A Maintenance Eye for the New X6 Server Guy </TITLE>
+	<DATE> 2014-02-11 21:45:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Simulation at Extreme Scale: Co-Design Thinking </TITLE>
+	<DATE> 2014-02-11 21:03:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft OCP Server Gets Mellanox 10/40GbE NIC Support </TITLE>
+	<DATE> 2014-02-11 21:00:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Startup Targets Latency with Server-Switch Hybrid </TITLE>
+	<DATE> 2014-02-11 20:44:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Biased but Useful] It Pays to Choose Cables with Care </TITLE>
+	<DATE> 2014-02-11 20:29:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-10 02:14:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The top one with the vertical lines is a typical horn coral--looks like you might have some crinoid bits throughout in addition to the shells. Nice finds, though. The one your brother found is pyrite--sparkly but common too. Still a nice start to a budding collection. Try to check out the area around you there in Ohio for trilobites and other semi-common fossil specimens, they're all around if you know where to look. Here are some day trip ideas http://www.dnr.state.oh.us/Portals/10/pdf/GeoFacts/geof17.pdf </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-07 22:13:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> *rubs hands together and cackles* -- between stacked memory and Volta, it's going to be quite a year, 2016. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Open, Free Book on High Performance Computing </TITLE>
+	<DATE> 2014-02-07 20:22:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> OpenMPI, Now with More FORTRAN </TITLE>
+	<DATE> 2014-02-07 19:43:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Future of Interconnect Technology with Mellanox CTO </TITLE>
+	<DATE> 2014-02-07 19:40:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> When Applications Go Exascale: The CRESTA Project </TITLE>
+	<DATE> 2014-02-07 19:39:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> NIH Study Finds Correlation Between Aspirin Intake and Ovarian Cancer Risk Reduction </TITLE>
+	<DATE> 2014-02-07 19:21:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Physics of Skiing from the NSF </TITLE>
+	<DATE> 2014-02-07 19:19:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Here Comes Heterogenous 3D Chip Design </TITLE>
+	<DATE> 2014-02-07 09:15:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Apache Releases Newest Cassandra Update </TITLE>
+	<DATE> 2014-02-07 09:13:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Biased but Useful] Data Grids v In-Memory Databases </TITLE>
+	<DATE> 2014-02-07 04:56:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-07 00:55:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Actually Jeff Squyres is their MPI guy and writes some great stuff. Not a thing to do with Cisco or pushing any agenda. Talked to him at SC in the past and he just really likes what he does, even if his company doesn't invest a lick in HPC. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Source to See What DoE, NNSA and other Projects are Being Funded </TITLE>
+	<DATE> 2014-02-07 00:48:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The 12 Best HPC News Sources/Blogs </TITLE>
+	<DATE> 2014-02-06 20:06:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-05 17:35:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> To be fair, they did carry the other side of the debate here just a couple days before. http://www.hpcwire.com/soundbite/toward-realistic-quantum-computing-measures/  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In-Depth Audio Interview with D-Wave's Bo Ewald </TITLE>
+	<DATE> 2014-02-04 19:33:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-04 19:27:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This is one of the best rockhounding posts I've seen in a couple of months. Beautiful, big finds. What area of CA (county) were you in? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-04 04:59:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I think that's his main point--he says it in the recorded part of the interview at the bottom that even with a top system, without experienced programmers who can optimize their codes, it's all useless. With GPUs, Phi, etc... at least having a familiar programming model is a benefit for users onboarding their apps quicker than with say CUDA </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Sneak Peek at Some Future Open Compute Project Designs </TITLE>
+	<DATE> 2014-02-04 04:46:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Runtime for Supporting Research in Resilient HPC System Software </TITLE>
+	<DATE> 2014-02-04 04:41:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cisco CEO on the Internet of Everything </TITLE>
+	<DATE> 2014-02-04 04:36:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-04 02:34:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Jade (green) and common quartz </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-02-03 18:27:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Agreed, they are quite beautiful to look at but not entirely uncommon--great find, however! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> One Year, 7000 Xeon Phi Cards... </TITLE>
+	<DATE> 2014-02-03 18:26:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-01-30 19:24:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Wonderful--I love this! What tools do you use for your carving?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Toward Realistic Quantum Computing Measures </TITLE>
+	<DATE> 2014-01-30 18:05:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-01-30 15:24:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's only 9 a.m. but I'm already sure that's the coolest thing I'll see all day. Where is it from? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> MIT Startup Exploits GPU Memory for Massive Visualizations </TITLE>
+	<DATE> 2014-01-30 05:30:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What Big Banks Have to Say About Open Compute Project </TITLE>
+	<DATE> 2014-01-30 02:46:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-01-27 04:13:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Possibly a pink Smartie? -- Posting photos is a must here...hard to say anything without one. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-01-27 04:10:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Agreed here. I have several similar pieces (some next to crinoids or with horn coral intermixed) from the Petoskey area of northern Michigan. </TEXT>
+</WRITING>
+</INDIVIDUAL>

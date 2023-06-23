@@ -1,0 +1,335 @@
+<INDIVIDUAL>
+<ID>test_subject4891</ID>
+<WRITING>
+	<TITLE> Am I Shadowbanned? </TITLE>
+	<DATE> 2015-06-18 21:29:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-16 19:27:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Don't waste your time with greedy fucks like Autodesk. There software is hard to use and you will get an error even when you do the most simplest thing. He'll need experience with programming. Modo sucks ass. Start with blender, have him learn cycles rendering. Then, he should move to maya. If he's looking for games, use unity or cry engine. Unreal lags like hell. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Any advice for mocapping a dog? Should I go the old school way and just put one of my old mocap suits on her? Or is it possible to do it with an Xbox kinect? </TITLE>
+	<DATE> 2015-06-16 19:14:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Basically I have this cgi cyborg suit looking thing, and I need Brooklynn(The dog's name) to wear it. So, I'm gonna mocap her on set, take her mocap data into maya, animate the suit with the mocap data, and then bring the shot of the doge into AE plus the rendered shot of the cyborg suit and composite it onto the dog. 
+  Is there any other efficient way to do this? Any tips? Has anyone ever mocapped a quadruped before? 
+Pic related, Brooklynn: http://m.imgur.com/z0g5ooK </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-15 08:07:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And where is a tutorial for the new mecanim system? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I add animation to enemy characters in Unity? It feels like no tutorial or script is working with Unity 5. Please help! I need the enemy to play a walking animation when his speed is greater than .1, and then go back to idle if his speed is less than .1! </TITLE>
+	<DATE> 2015-06-15 06:07:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I added a float called speed, and added transitions using between the idle and walking animations. 
+Didn't work. Added a component script 
+using UnityEngine;
+using System.Collections;
+
+public class zombieWalk : MonoBehaviour {
+protected Animator myAnimation;
+
+void Start () {
+ myAnimation = GetComponent ();
+}
+
+void Update () {
+ myAnimation.SetFloat ("speed", Input.GetAxis ("Vertical"));
+}
+} 
+  That didn't work. 
+  Help! My levels look great. I've baked renders to image textures so my levels look like pre rendered vfx. My ai can navigate through the most treachorous paths. But then there's animations! Nothing works. Please help, I'm pretty desperate as you can tell.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> At 9:46 of this tutorial, this man uses a script called enemy_with_animation, its an ai script with two boxes where one drag and drops the idle and walk animations. no mecanim required. where do i find or make this script? </TITLE>
+	<DATE> 2015-06-15 02:44:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> im getting beyond frustrated. I had a tutorial which said in order for animations to transition in mechanim, you are to set the conditions to speed. only in unity 5, in the conditions box, it says "Parameter does not exist." its almost as frustrating as using cryengine! </TITLE>
+	<DATE> 2015-06-14 21:59:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Happened a while ago. Received an interesting package. Apparently, I am now a Transhumanist crusader... </TITLE>
+	<DATE> 2015-06-14 08:05:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-14 04:04:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I simply don't want it to rotate 360 degrees around me.  I want it to walk towards me. I tried adding a rigid body, and freezing the x and z rotations. Doesn't work. Tried adding a character controller, didnt work. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Will Source 2 get rid of the shitty .mdl compile system? Will we be able to import .fbx? </TITLE>
+	<DATE> 2015-06-14 03:21:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   Let's face it. Source 1 is a pain. Compiling mdl is horrendous. Half Life 2's normalmaps/bump maps are so shitty. What improvements will be in source 2? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm creating AI, however, when I create a rigid body component, the npc moves towards me, leans backwards, walks into me, and finally spins on the floor in 360 degrees. Reminds me of a seizure. What do I do? Code I used is in this tutorials description: </TITLE>
+	<DATE> 2015-06-13 22:14:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [WP] Fascist transhuman forces occupy earth via a Third World War. You are a captured resistance leader sentenced to die, but you are given a chance of freedom: help the transhumanists create a master race by ridding the world of all minorities. Do you accept this ultimatum? </TITLE>
+	<DATE> 2015-06-13 21:52:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Fascist transhuman forces occupy earth via a Third World War. You are a captured resistance leader sentenced to die, but you are given a chance of freedom: help the transhumanists create a master race by ridding the world of all minorities. Do you accept this ultimatum? </TITLE>
+	<DATE> 2015-06-13 21:42:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hi r/guns, I know this might be a spam question, but what is the most powerful sniper rifle in the world? I have this strange fascination with them. You know? It feels good to aim down the sights knowing you have incredible power with pinpoint accuracy. </TITLE>
+	<DATE> 2015-06-13 04:41:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Reddit, I don't think I can go on for much longer. It's so hard. I'm running track, but I lose a lot. 4th place in hurdles. You'd think that's good, but no I get compared to my cousins... </TITLE>
+	<DATE> 2015-06-11 04:01:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   I've had enough. This has gone on forever. I will never be good enough. Plus my dad called me a dick and always yells. I find refuge in creating levels and unity 5. I bake textures in Blender cycles and then send it to unity so the graphics look like fucking Gravity. It's amazing. I thought my family would be proud. But no. My family said I spent too much time online, which I felt was a fucking erroneous assumption, since I only worked on the project for 30 minutes each day before going outside and trying to please everyone in track.
+    It's killing me. I can't go on much longer. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So, I've modeled a hallway in blender and exported it. Only thing is, when I use a first person controller, the hallway is invisible. Same thing in scene mode, If I fly around outside, everything looks great, but if I fly inside, everything is invisible? </TITLE>
+	<DATE> 2015-06-08 22:05:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   Please help. Newbie from CryEngine here. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> is it possible to make the blender game engine look as good as UE4? </TITLE>
+	<DATE> 2015-06-07 21:43:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   if so, are there any examples? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm doing this massive battle scene. I'm talking huge. As in thousands of soldiers. Planetside 2 stuff mothafuckas. Should I do this as an AI battle, or as a pre-animated/scripted scene? How do I do this comrades? </TITLE>
+	<DATE> 2015-06-06 19:29:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-04 06:50:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Im trying to make a mod with the source sdk, and i need to know where the models and materials folders are for half life 2. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Modding for le glorious pc exclusive physics sandbox gmod. Where do I go to find the folder for Half Life 2 models and materials? I go to Steam/steamapps/common/Half-Life 2/hl2/models but there are only 6 models, those being weapons. What do I do? </TITLE>
+	<DATE> 2015-06-04 06:41:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I dont have the username folder in steamapps, I guess thats part of the steampipe update. Anyway, I need to find the Half-Life 2 materials and models folder so the faceposer and model viewer can easily find and present my models with texture. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Where do I go to find the assets such as models and materials folders for Half life 2 and Team Fortress 2? My steamapps has no username folder like all the modding tutorials do. So where do I go to find all the models, assets, and materials? </TITLE>
+	<DATE> 2015-06-04 06:19:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> In the new fallout 4 trailer, look at the close up shots of the dog. The skin under its front leg stretches and twists abnormally. Also, it's has neither polygon fur or a fur bump map, just a flat texture. Realtime technical limitations or is Bethesda being lazy/rushed? </TITLE>
+	<DATE> 2015-06-04 05:30:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Would any of you fine gents care to take a look at the log I received when I tried to compile an mdl? I'm having trouble with Crowbar. </TITLE>
+	<DATE> 2015-06-03 14:49:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> // Created by Crowbar 0.24.0.0
+Compiling...
+qdir: "c:\users\admin\documents\source game assets\" gamedir: "C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\" g_path: "Cube.qc" Building binary model files... Working on "Cube.qc" SMD MODEL Cube_Ref.smd SMD MODEL Cube.smd SMD MODEL Cube_phys.smd WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!! WARNING: Error with convex elements of Cube_phys.smd, building single convex!!!! Model has 1 convex sub-parts
+Collision model completed.
+
+writing C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl: Error opening C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl! (Check for write enable)
+The filename, directory name, or volume label syntax is incorrect.
+Compiling... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Having trouble compiling a .mdl with crowbar. Would any of you fine gents care to take a look at the log I received? </TITLE>
+	<DATE> 2015-06-03 09:12:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> // Created by Crowbar 0.24.0.0
+
+Compiling...
+
+qdir:    "c:\users\admin\documents\source game assets\"
+gamedir: "C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\"
+g_path:  "Cube.qc"
+Building binary model files...
+Working on "Cube.qc"
+SMD MODEL Cube_Ref.smd
+SMD MODEL Cube.smd
+SMD MODEL Cube_phys.smd
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Model has 2-dimensional geometry (less than 0.500 inches thick on any axis)!!!
+WARNING: Error with convex elements of Cube_phys.smd, building single convex!!!!
+Model has 1 convex sub-parts
+Collision model completed.
+---------------------
+writing C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl:
+Error opening C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\models/C:\Users\Admin\Documents\Source Game Assets\Cube.mdl! (Check for write enable)
+
+The filename, directory name, or volume label syntax is incorrect.
+
+Compiling...
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Is torrenting illegal? If so, how? Isn't it simply file sharing? </TITLE>
+	<DATE> 2015-06-03 07:12:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What was it like playing Half-Life 2 back in 2004? Were people awed by the graphics like they were awed by Crysis and Crysis 3's graphics? How did the gaming community react? </TITLE>
+	<DATE> 2015-06-03 01:03:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [HELP] My border collie "laughs" when I rub my penis on her face? Does anyone know why this happens? </TITLE>
+	<DATE> 2015-05-31 04:24:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> My border collie "laughs" when I rub my penis on her face? Does anyone know why this happens? </TITLE>
+	<DATE> 2015-05-31 03:53:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 17:46:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ahh ok </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 14:11:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Source 2? How the hell do I get Source 2? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I script AI in the source engine? </TITLE>
+	<DATE> 2015-05-27 15:41:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have experience with C++. How do I script enemy and friendly AI in Source? Are there any tutorials? The wiki isn't very helpful. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-27 15:12:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks m8. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do you use bump/normal maps in the Source Engine? </TITLE>
+	<DATE> 2015-05-27 05:01:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [HELP] We are getting a yorkie next week, and I'm worried that my Border Collie will be jealous. What should I do? </TITLE>
+	<DATE> 2015-05-22 00:33:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> We are getting a yorkie next week, and I'm worried that my Border Collie will be jealous. What should I do? </TITLE>
+	<DATE> 2015-05-22 00:20:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Okay. So I'm using the cycles bake to blender game. I think it looks pretty good. I'm trying to make the game look as good as crysis 3/ battlefield 4. Is this possible with BGE? Any tips? </TITLE>
+	<DATE> 2015-05-20 04:31:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-19 03:49:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great. I have the build. How do I install it to blender? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I want to use Ptex in blender. Where do I download the code and how do I input it into Blender? </TITLE>
+	<DATE> 2015-05-18 23:31:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Did B-29s really machine gun strafe Hiroshima survivors after the atomic bombing? </TITLE>
+	<DATE> 2015-05-18 05:21:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> At 1:29+ in this video, it seems like the user is switching between rendering modes in unreal engine? </TITLE>
+	<DATE> 2015-05-15 19:08:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Would autodesk make more money with their current pricing model, or with a royalty system like Unreal engine 4? </TITLE>
+	<DATE> 2015-05-14 02:45:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-12 00:05:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> What do you think the error means? Do you have any suggestions? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hi R/ blender, I'm getting desperate. I'm using blender and cryengine and when I try to add fakebones, this happens: </TITLE>
+	<DATE> 2015-05-11 13:56:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-07 22:07:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cryengine supports .cga animations. So yeah. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm exporting animation to cryengine. Can I bake armature keyframe poses into regular LocRotScale/shape keys so blender thinks it's hardbody animation? </TITLE>
+	<DATE> 2015-05-07 03:04:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   Seriously. Cryengine can't read cryblends cfg or armature files. So don't try. Please, I just want to know how to bake armature poses into hardbody poses. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So I'm sending a cga animation to cryengine. Can I bake character animation into shape keys so that the computer thinks it's hardbody shape animation? </TITLE>
+	<DATE> 2015-05-07 02:52:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>    Cryengine is having trouble with my armature exports. So how do I bake animation from armatures into shapekeys? </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,821 @@
+<INDIVIDUAL>
+<ID>test_subject3919</ID>
+<WRITING>
+	<TITLE> Whats with the anger about the update at /r/tf2? </TITLE>
+	<DATE> 2014-12-10 00:05:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I stopped playing the game recently (will come back to it, just into other games now) and I'm seeing a lot of posts about a bad update. What was so bad about it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-08 02:26:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> *Squirming intensifies* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Trigger] Match being lit </TITLE>
+	<DATE> 2014-12-07 19:19:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-06 03:10:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here's my resume!
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes
+
+* memes </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-01 03:51:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> No don't get me wrong he is absolutely my favorite YouTuber (well just the grump family in general) but he plays to the person of "total and utter hilarious d-bag" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-12-01 00:25:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah but you're almost supposed to kinda hate Arin
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-29 20:09:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I personally enjoyed it! I think it's definitely worth 8 bucks if you're into stealth. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-27 17:52:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I can say they thats not use for skateboarding in normal cases </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-27 04:17:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I guess skaters can't trip.... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-24 23:54:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I added the language as an edit (vb) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-24 23:52:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am putting the output into a label, it's just giving me the data like how I stated in the post </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-24 23:51:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Added as an edit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Trying to get a integer out a label's caption then add them together but I'm having no luck </TITLE>
+	<DATE> 2014-11-24 23:20:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I have a random number generator and the code is like this
+
+    lbl1.Caption = Int(1 + Rnd * 10)
+    lbl2.Caption = Int(1 + Rnd * 10)
+    lbl3.Caption = Int(1 + Rnd * 10)
+
+
+    int1 = lbl1.Caption
+    int2 = lbl2.Caption
+    int3 = lbl3.Caption
+
+    
+    intTotal = int1 + int2 + int3
+
+
+
+
+and say the numbers were 4, 5, 9. I get 459 not 18. What am I doing wrong?
+
+Edit: sorry Visual Basic </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-23 21:45:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Disproving evolution with the "some are still the same today is like" statement is like saying if a slice of meat is on a sandwich then slices of meat can't be off a sandwich by themselves therefore sandwiches aren't real. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wall-E   Eve </TITLE>
+	<DATE> 2014-11-23 00:53:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Wall-E   Eve </TITLE>
+	<DATE> 2014-11-23 00:52:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-23 00:52:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Made it a [Wallpaper](http://imgur.com/cWausHM) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-19 16:31:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So i tried my own code (I can't use your code) and It won't work
+   
+     Dim strUserSentence, strWord1, strWord2, strNewSentence As String
+   
+     strUserSentence = txtUserInput.Text
+
+     strWord1 = txtUser1Word
+
+     strWord2 = txtUser2Word
+
+     strNewSentence = strUserSentence.Replace(strWord1, strWord2)
+
+     lblOutput.Caption = strNewSentence
+
+I get runtime error 424: Object required. how can I fix it?
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-19 04:29:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh okay thank you! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Help With VB6 Word-Swapper Project </TITLE>
+	<DATE> 2014-11-18 16:32:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> My directions:
+
+Write a program that asks the user to input:
+
+	A sentence
+
+	A word found in the sentence 
+
+	Another word to replace the first word that was selected
+
+When the New Message button is clicked, the original sentence will be displayed with the users first word replaced by the second word.
+
+For example, if the user types Learning to write computer programs is easy. into the first textbox, then easy and challenging into the second and third textboxes, the following message will be displayed, as shown in the interface below
+
+http://imgur.com/IBmgqIc
+
+
+
+I'm really struggling with this one and I am constantly having errors. How should I approach this? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-17 12:29:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Using the longnail usually avoids this because if they have sheilds while they die they seem to never do it. (longnail avoids sheilds) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-15 05:04:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "thank you it was cold on the floor" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-14 20:27:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> looks like a backpack strap fastener </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-11 23:04:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Shit! it's 4:05 I'm gonna be late! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-10 03:29:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Darksouls PVP is good if you're into that </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 16:19:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I used 2 layers. I put my wallpaper underneath and the space on top then wrote text over it. I merged the text with the space wallpaper then selected it and delete it to expose the  alt-j wallpaper underneath.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 03:00:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> sorry life's been crazy and I could never get around to it. [here it is.](http://imgur.com/DDlGnqZ) if its not right say so I don't mind fixing it </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-11-08 02:22:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>          better shut up        </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Anyone else enragd by these "only spawn during mission" enemies that drop legendarys? </TITLE>
+	<DATE> 2014-10-29 12:02:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Now I can't go back and get the ones I wanted because of this BS. We should start a petition for them make them spawn. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-28 22:36:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Still want it </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [W] Ol' Rosie lvl 50 [H] Anything from my inventory </TITLE>
+	<DATE> 2014-10-28 15:19:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know it's usually lvl 48 but I have heard of lvl 50 versions out there
+
+this is me http://steamcommunity.com/profiles/76561198032854822 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-25 17:29:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Of course! I'm at work but how would you like it to look? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> me_irl </TITLE>
+	<DATE> 2014-10-20 04:16:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-20 04:14:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Magic mirror from shrek </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-05 18:25:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Male orgasm = HHHNNNNNGGGGG! ahhhhhhhh...... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-10-04 05:10:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> rat/boston terrier?
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> MRW you can even kickflip </TITLE>
+	<DATE> 2014-10-02 03:25:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-20 01:48:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> mice neme </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-18 02:34:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That my problem, she has been the only girl I've had eyes for. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-17 23:38:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try r/indiegames maybe </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DFW break up </TITLE>
+	<DATE> 2014-09-17 12:19:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> damn I'll miss her but it was mutual and on pretty good terms.
+It needed to happen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-17 00:38:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Can we please stop with the, "Can we please stop with the, "can we please stop with" posts?" </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-14 23:30:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [I made you one, but only because you've got a nice booty](http://imgur.com/iuxAeBl) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-11 02:46:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Well your comment is here now so I guess you could go to your reddit profile. Or use the save feature on reddit. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I challenge you to see if there is a better laptop for gaming than this computer for around the same price. My friend thinks he found the one he wants and I wanted to see if we could do more. </TITLE>
+	<DATE> 2014-09-11 02:45:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-04 12:28:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> It's all John Ames on the boarder. I'm actually friends with david coon's daughter we were in our local schools drama club together. I think right now they're abundant because he lives in Fredericton. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-04 12:24:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nah this is just the icloud leaking </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-09-03 01:39:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Building one yourself would give you the best performance and price
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> When someone asks how many times I've fapped to the JLaw nudes </TITLE>
+	<DATE> 2014-09-01 21:20:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-31 22:02:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> **NOICE** </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-31 16:34:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> until you do something incorrect then they glare at you </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-30 23:05:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm all for fallout tattoos, BUT WHY THE FUCK WOULD YOU GET THAT TATTOOED ON YOURSELF?!  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Pour Some Sugar On Me </TITLE>
+	<DATE> 2014-08-29 22:21:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tragically Hip Replacements </TITLE>
+	<DATE> 2014-08-24 04:09:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-22 05:21:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> (   ) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> me_irl </TITLE>
+	<DATE> 2014-08-21 15:48:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> me_irl </TITLE>
+	<DATE> 2014-08-20 20:20:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 21:13:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Nice! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I was challenged to make another alt-j wallpaper so hear it is </TITLE>
+	<DATE> 2014-08-17 19:23:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-17 18:41:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> alright! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-16 02:59:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Its supposed to be hard to read they stylize lots of their art like that
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> This picture </TITLE>
+	<DATE> 2014-08-16 02:57:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Alt-j wallpapers I made [1920x1080][album] </TITLE>
+	<DATE> 2014-08-15 20:40:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Tried my hand at making some wallpapers [1080x1920] </TITLE>
+	<DATE> 2014-08-15 20:35:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-15 18:08:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> try nail polish remover on a cotton swab it may remove the paint </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is a broken gif and how is it broken </TITLE>
+	<DATE> 2014-08-10 00:21:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> There's a a sub for it and everything. It's pretty mesmerizing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-09 20:58:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Put in as an edit </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> [Build Help] </TITLE>
+	<DATE> 2014-08-09 20:16:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm looking for a upgrade for my graphics card and I was wondering which one I should get that would preform well along side my processor with out being too much or too little. My processor is a AMD FX-6300 Six-Core Processor 3.50 GHz and My current card is a GTX 650.
+
+edit: Budget $300
+       PSU 600w </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 19:02:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Here you go baby cakes](http://imgur.com/sW32Vju) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-07 01:38:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Canadian servers... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Thanks for the cookies, Korea! What kind are they? Oh </TITLE>
+	<DATE> 2014-08-07 00:43:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-04 21:24:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You realize they still use calculators........ right? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-04 04:39:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> well I assure you there is more than 1 black thing so you need to be more specific </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-03 16:52:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Dog Whelk Egg?](http://cache2.artprintimages.com/lrg/29/2909/M2OPD00Z.jpg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-03 04:22:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes dude it happened, calm down </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-08-02 22:14:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> On the bright-side I don't see Nether there </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 02:48:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> holy night....... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 01:43:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> happiness :( </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-31 00:52:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thak stoolboy </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-29 20:20:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> k </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 23:10:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I AM REAL MODERATOR.
+ARE YOU REAL CHOOSE FLAIR? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 19:08:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> could just be a [Yellow Baby Tomato](https://www.google.ca/search?q=yellow+baby+tomatoes rlz=1C1CHMO_enCA576CA576 espv=2 tbm=isch tbo=u source=univ sa=X ei=XYPWU6_BJoKXyATckYKQAQ ved=0CBsQsAQ biw=1920 bih=912) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 18:37:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> #####*k* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>  QUICK SCOPES 2 DA LEFT </TITLE>
+	<DATE> 2014-07-28 16:55:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 16:52:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I know for a fact that it's possible to have a dual purpose one
+
+source: mine is (   ) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 04:03:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes! a boston -peekapoo </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:33:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ####*ALRIGHT* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-28 02:30:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is the Bay of Fundy in New Brunswick </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> She's a little ball of energy </TITLE>
+	<DATE> 2014-07-28 02:28:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-27 22:54:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> But in all seriousness PC gaming is a very intelligent turn is your console dies on you </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-22 17:42:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm in tim's right now reading this. This good damned oreo ice cap is so good </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-20 04:09:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yeah, but on the bright side you found a $99 dollar piece of equipment </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-20 01:45:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> guess the magnet's not too good if you found it in the street </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> MRW Mazdas </TITLE>
+	<DATE> 2014-07-19 12:39:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-18 02:54:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> #####*WHAT GOOD MEME-ING LOLOLOL* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Cat got the better deal </TITLE>
+	<DATE> 2014-07-17 16:33:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Why problem make when you no problem have you don't want to make? [haiku] </TITLE>
+	<DATE> 2014-07-17 03:47:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-17 02:40:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [*69* **-Short People**](//#derpbraff) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-17 02:36:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> #####*THIS IS WHAT MAKES REDDIT GOOD* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-17 02:34:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ##*SMAPLE TEXT* </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-15 04:49:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Maybe of of an old [chest?](http://www.franceera.com/Franceera_photos/Antique-French_Louis_Xv_Chest_of_Drawer_815_g.jpg) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-13 20:14:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [*weed?* **yes.**](//#couragewolf-comicsans!-green) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-13 19:31:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you're in St. Stephen there's the chocolate museum. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-13 19:29:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Praise be to GabeN! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-13 05:09:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thak </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-10 03:08:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Somebody needs to go to some garage sales... </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-09 17:44:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> thank mr skeltal </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-08 05:41:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd like to win this for my dad who has put in more hours than anyone I know into skyrim, sadly he's done it on an old PS3 and I know he would love to be able to have a nice pc (his is still win xp) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> North America to scale on Jupiter [xpost r/space] </TITLE>
+	<DATE> 2014-07-08 02:11:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-05 04:35:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [Sorry people were being butts about it and down-voting you. Here's one](http://imgur.com/HTa0HEC) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-07-02 04:59:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Par-a-diddle^Par-a-diddle^Par-a-diddle^Par-a-diddle </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-30 01:03:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [reminds me of this](http://i.imgur.com/zpQSAev.png) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-22 23:02:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You should put that as edit #3 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-22 19:50:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Later. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-20 12:37:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> coffee </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-19 16:15:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Then use the ring of binding, or help another player fight a boss (that will make you human and give you a lot of souls) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-14 19:22:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> this is beautiful, this belongs in a museum or some public place  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-06-13 18:39:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Classic Troven! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> DFW you know life's gonna get fucking hard </TITLE>
+	<DATE> 2014-06-13 18:20:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> god damn it, I wanna scream </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-05-30 04:16:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [*cough](http://www.amazon.com/GC-Controller-Adapter-PC/dp/B0089NVTDM) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2014-05-27 04:03:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> money holder possibly? or just papers in general? </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,119 @@
+<INDIVIDUAL>
+<ID>test_subject8493</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-05-03 22:23:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Coming in Rails 2.1. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Edge Rails: Has Finder Functionality </TITLE>
+	<DATE> 2008-05-03 22:22:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-05-02 00:40:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This already existed as a well-used plugin, but I just discovered it as a gem, which is much more handy, IMO. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Annotate Models with gem </TITLE>
+	<DATE> 2008-05-02 00:40:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>  How to install RESTful Authentication on a Rails 2.0 app </TITLE>
+	<DATE> 2008-04-29 22:57:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Block level helpers in Ruby on Rails </TITLE>
+	<DATE> 2008-04-28 06:59:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rail Spikes: 5 little-known Rails methods </TITLE>
+	<DATE> 2008-04-26 23:16:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-04-26 22:35:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I agree it's a good thing. I look at it as a commercial entity giving to the open-source community, while at the same time making money without which they wouldn't be able to host FOSS repos anyway.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-04-25 23:35:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> In gem v.1.0.x this is now "gem server" and it's helpfully listed in the list of commands. Prior to that, I had no idea that gem_server existed. Very useful. (use --daemon to run as daemon).
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Gem Documentation Server </TITLE>
+	<DATE> 2008-04-25 23:33:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-04-25 18:28:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> IDEA: There have been a number of a "essential gem" posts, some linked on reddit. What would be cool is if someone made a simple "ruby-gem" site with all the available gems listed (users could submit ones), and the ability to vote and comment on the gems, or a "I use this" button to which ones are actually most used. Or maybe a "gems" section should be added to agilewebdevelopment.com.
+
+Or, perhaps something like this exists and I haven't found it yet.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> top-rated ruby-gems site? </TITLE>
+	<DATE> 2008-04-25 18:27:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>  Stone: Dead-Simple Data Persistence  </TITLE>
+	<DATE> 2008-04-21 17:00:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Merb Book (Part 3)  </TITLE>
+	<DATE> 2008-04-18 22:00:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RubyAMP - another TextMate Ruby bundle </TITLE>
+	<DATE> 2008-04-15 18:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Migrating to Ruby 1.9 (slideshow) </TITLE>
+	<DATE> 2008-04-15 01:52:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Merb Wiki </TITLE>
+	<DATE> 2008-04-11 14:58:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> RubyFlow: A New Ruby News Site </TITLE>
+	<DATE> 2008-04-10 04:26:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

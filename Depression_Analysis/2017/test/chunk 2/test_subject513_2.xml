@@ -1,0 +1,29 @@
+<INDIVIDUAL>
+<ID>test_subject513</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-11 05:40:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That is one way of doing it, but you have to pay for SSL with their higher packages. It isn't free. 
+
+Also from reading and my own experience with them, if they (CloudFlare) provides the SSL Certificate, then you don't have control over it. They do and the can decrypt your connection because they also own the private key.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to make your site all-HTTPS, all the time, for everyone </TITLE>
+	<DATE> 2015-05-10 14:29:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Almost 400Mbps LTE speeds? Sure! </TITLE>
+	<DATE> 2015-05-10 14:18:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-08 03:39:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This list kinda makes me laugh... </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,288 @@
+<INDIVIDUAL>
+<ID>test_subject4891</ID>
+<WRITING>
+	<TITLE> Using Colladacgf for cryengine with blender cause cryblend sucks bellend. Does anyone know if ColladaCGF supports hardbody and skeleton animation? </TITLE>
+	<DATE> 2015-05-04 06:09:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So, I've been doing a lotr style scene and I want to parent my walk cycle characters to the boids. What do? </TITLE>
+	<DATE> 2015-04-30 00:20:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Using cryengine with blender. All the tutorials for exporting skeletal animation use fakebones. The latest version of cry blend removed fakebones. What might i do? </TITLE>
+	<DATE> 2015-04-28 04:30:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> how do I export skeletal animation with cry blend with the latest release of cry blend? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-23 00:46:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't have photoshop though </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Please help. Having trouble with lender to cryengine exporting materials. </TITLE>
+	<DATE> 2015-04-22 22:02:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 
+
+Every time I bring in a texture in as a .tiff or .psd, nothing shows up. It's just a "Replace Me" cube. What do I do?
+Please don't point me to the manual, as I have already read it. The cryblend manual dosnt work either.
+Tell me please, what are the steps to add textures to my blender exported model. Maybe I'm not doing it right.
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ptex textures in maya 2016 from mudbox 2016 appear as blurry and transparent. Send to maya dosnt work. </TITLE>
+	<DATE> 2015-04-19 16:55:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Maybe I should try sending a 16 bit file rather than the standard 8 bit ptex file. I just don't know! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to get ptex from mudbox 2016 to maya 2016? Send to maya doesn't work. </TITLE>
+	<DATE> 2015-04-19 06:18:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   The ptex texture appears blurry and transparent. What might I do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How to view ptex textures in maya 2015? </TITLE>
+	<DATE> 2015-04-18 21:40:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  When I go to shaded view mode, all I see is a crystal clear gray texture. Send to maya didn't work. P.S. I'm using mudbox to maya. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> So I textured a character with uv tiles in mudbox, sent it to maya, then animated it, and finally sent it to softimage for crowd simulation. Soft can't visualize uv tiles, so when I send it back to maya, will my characters have texture? </TITLE>
+	<DATE> 2015-04-17 04:18:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'm wondering. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hi reddit. This is my friend Elliot. This is his begging face. However, he has a liver problem. And needs surgery. If you'd like to donate please go to http://www.gofundme.com/s4vetne6 . However I don't want to beg. Enjoy this pooch! </TITLE>
+	<DATE> 2015-04-16 03:09:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I really hate uv unwrapping. I want to use softimage for crowd sim effects. Can't I just use cylindrical or box projection on characters to apply textures like I can box map in blender? </TITLE>
+	<DATE> 2015-04-10 02:34:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I helped create some assets for this game. Do you think this could run on my wii u? </TITLE>
+	<DATE> 2015-04-07 21:13:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-07 03:47:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> K thx </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I get blender animations to unreal engine? </TITLE>
+	<DATE> 2015-04-07 00:45:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Just need to know. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I get uv tiles from mudbox to appear to be rendered in Softimage? </TITLE>
+	<DATE> 2015-04-06 05:17:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm using Maya, blender, mudbox, and unreal engine, but o want to play games during my long render times while my current blockbuster is at my renderfarms. Will this graphics card suffice for my needs? </TITLE>
+	<DATE> 2015-04-05 00:51:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Using autodesk 123d catch, tips for 3d capturing dog? </TITLE>
+	<DATE> 2015-04-03 21:29:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Has anyone ever tried this? My pooch is a border collie, so she's pretty smart. But I'm not sure if I'll be able to get her to stay still to take that many pictures of her. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I join uv maps? </TITLE>
+	<DATE> 2015-04-03 21:09:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   Basically, I divided my mesh into multiple sections using the p seperate command. Then, when I was done unwrapping, I used the mirror modifier to make my mesh whole. However, when I want to add texture, I have to add materials to each seperate section of the mesh. If I join all the objects together, it makes a huge mess. What do I do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-03 16:54:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You got me! April fools to this faggot sub! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-02 04:54:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Simply realistic looking terrain. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-02 04:53:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Other than massive data sizes and textures being loaded procedurally like in Rage, I don't see anything too bad. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-04-02 04:52:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Terrain in unreal engine looks just so bad! Think of the game Rage. If you let it sit for a while, it would look amazing. With unreal engine, if we can preload the textures so we don't have the same problems as rage, we could create an amazing looking game. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I have an idea. I propose Megatexturing in Unreal Engine. </TITLE>
+	<DATE> 2015-04-02 01:11:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   Okay. So, what we do is we create one big ass map in a 3d modeling program and compose a texture atlas. We export that as an fbx and bring it into unreal engine. Using gimp or photoshop, we create an even bigger ass image texture. Finally, we unwrap that kush and bam, a realistic map. I think this would do great with terrain, as Unreal Engine isn't good with rendering dirt or sand.
+The only flaws I see with my idea is:
+A: How do we get the image to unwrap in specific areas?
+B: How big of an image would we need? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I send multiple objects in one file from blender to unreal engine 4? </TITLE>
+	<DATE> 2015-04-01 01:56:21 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> basically I have a warehouse, and I want to apply seperate materials to certain parts. I don't want to have to export dozens of files. What do I do? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I create an all purpose shader in renderman? The pixar website is very vague. </TITLE>
+	<DATE> 2015-03-30 04:34:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   So I create a new pallet, then what? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm looking into UE4 for architectural visualization. Where do I start? Here is a YouTube video which is basically what I aspire to create: </TITLE>
+	<DATE> 2015-03-28 04:30:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I want to make a film the old fashioned way with stop motion and matte paintings and such. I want to 3d print miniature characters to be stop motion animated. How do I print joints so I can animate my characters? </TITLE>
+	<DATE> 2015-03-22 01:32:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-22 01:30:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Oh, well are there any 3d printing subs? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm gonna make a film the old fashioned way. Matte paintings, stop motion and such. I have a 3d printer which I want to use to 3d print characters to be animated with stop motion. How do I print joints so I can animate my characters? </TITLE>
+	<DATE> 2015-03-21 22:07:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-20 06:26:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Winning the race really </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I don't know how much longer I can do this... </TITLE>
+	<DATE> 2015-03-20 03:48:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>   Today was our track meet. It was but a fine day for running, as the weather was well suited for the track season. I was running the 300m hurdles. I was doing brilliant. I was in third place, and edging ever so close to passing the individual in second place. Suddenly, the unthinkable happens. I fall. I go from 3rd to last place. I fall in front of my family, my girlfriend, and 1000 people. 
+But this isn't the first time. It's been like this for ages. I just never meet my own expectations whether it be sports or school. I'm just done. I'm ready to go. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Using Mudbox's UV tile mapping system, i painted my demon model, but when i export the file as a .fbx, it renders in maya like this: </TITLE>
+	<DATE> 2015-03-18 01:56:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm using mudbox for texture painting. How many uv tiles would you recommend for the average humanoid mesh? How many uv tiles does the human basemesh preset have? </TITLE>
+	<DATE> 2015-03-17 05:27:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Basically, I want to do a scene where my dog is holding a gun. She's a border collie, so she's pretty smart, but not smart enough to handle a gun prop whilst standing on her hind legs. Any ideas? </TITLE>
+	<DATE> 2015-03-17 01:59:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I was thinking of me in one of those green morph suits and holding her paws with the gun and then painting me out later in AE. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've textured two models. One is painted with textures, another is just plain uv mapped with an image plastered on it. How do I save the textures as pngs/jpegs so I can apply them as materials in unreal engine? </TITLE>
+	<DATE> 2015-03-16 00:20:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> How do I import my shaders from blender to unreal engine? </TITLE>
+	<DATE> 2015-03-16 00:10:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've box mapped my character in blender because the blender uv editing system sucks. Will unreal engine read this as uvs and map my materials onto the model just like blender? </TITLE>
+	<DATE> 2015-03-15 20:10:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-15 09:22:36 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> For me, I usually recalculate area normals and remove modifiers.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> "Bone Heat Weighting Failed: Failed to find solution for one or more bones." This is such a common issue in blender, let's all just dump our solutions in the thread for the noobs. </TITLE>
+	<DATE> 2015-03-15 09:21:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Dump em' </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-13 17:31:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> The object </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-13 09:04:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> So I can bake my rendered textures to the model and then export it? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I've rendered in mentalray, now I want to send this prerendered model to cryengine? What do? </TITLE>
+	<DATE> 2015-03-13 07:58:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-03-13 07:53:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I specifically want to send a prerendered model to cryengine. I believe renderman can export .fbx and .objs? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> I'm using a prerendered model and I want to send it from renderman to unity/cryengine. What do I do? </TITLE>
+	<DATE> 2015-03-13 06:07:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Renderman users, is rendering ptex in renderman easy? If so, how do you do it? </TITLE>
+	<DATE> 2015-03-12 04:14:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I mean, you guys are r/disney. Y'all should have some experience with animation. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Renderman users, is ptex easy to render in renderman? How do you do it? </TITLE>
+	<DATE> 2015-03-12 04:02:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,127 @@
+<INDIVIDUAL>
+<ID>test_subject8493</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2009-05-03 04:58:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Newsfire </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2009-04-24 18:07:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> http://apidock.com/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> souped-up ruby textmate bundle </TITLE>
+	<DATE> 2009-03-14 22:47:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Ack.tmbundle: a faster "Find in Project" for TextMate </TITLE>
+	<DATE> 2009-03-14 22:45:59 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Accessing a remote production DB in local dev mode </TITLE>
+	<DATE> 2009-03-14 22:29:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Rails: Accessing a remote production DB in dev mode </TITLE>
+	<DATE> 2009-03-14 22:24:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2009-03-04 02:48:54 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Speaking from experience, unless you're only translating one or two word phrases, or very simple and unambiguous phrases ("this is a pen"), Google translation, and similar online services, are useless as the translation is more likely to be wrong than right. 
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2009-02-14 21:03:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Advantages over cron that I can see:
+
+* Access to your rails environment. (Okay, cron could call a rake task that loads the environment. But this is simpler as it's right in your rails project. No need to mess with editing crontab as root.)
+* Ability to set up and/or trigger scheduled tasks dynamically based on user input.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2009-02-13 00:37:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> but changing IRB.conf[:PROMPT][:DEFAULT][:RETURN] to simply "%s" doesn't return the same results as irb_rocket (output on the same line rather than on the next line) I'm making the wrong change?
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2009-02-13 00:27:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Built fine for me on 10.5.6 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-12-24 21:31:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes!! A big win for both projects, and most importantly, for the users. Congratulations. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-12-16 16:12:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This series of interviews needs a new title. Judging by the content so far, it's aimed squarely at beginners who know very little about Ruby, and mostly states stuff that's widely known from those who follow Ruby at all. That doesn't make it bad, it's just not about "little known ways" to "ruby mastery".  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-12-16 03:11:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thinkpad (Lenovo) is the best, IMO. But I've run Ubuntu on Dell and HP laptops too without problems. Forget about the company shipping with Ubuntu; just wipe the drive and install Ubuntu on top--or keep the Windows OS on there and dual-boot if you like. 
+
+The main thing is to stay away from certain incompatible wireless and video chipsets. The safest is to pick a laptop that has Intel video and Intel wireless--they're almost certain to work with Ubuntu out of the box.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-12-12 05:53:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Personally, I'm happy with prototype and the Rails helpers. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-09-23 05:04:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Rails-Footnotes has more info, though I like the bar idea. Maybe the two could be combined. 
+
+http://github.com/drnic/rails-footnotes
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Shades of Gray: Five ActiveRecord Tips </TITLE>
+	<DATE> 2008-09-19 21:21:28 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Hoptoad </TITLE>
+	<DATE> 2008-09-18 22:46:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2008-09-18 22:44:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Love the macros! Maybe I'll actually start writing tests for my apps now :-P
+
+ </TEXT>
+</WRITING>
+</INDIVIDUAL>

@@ -1,0 +1,995 @@
+<INDIVIDUAL>
+<ID>test_subject3336</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 01:59:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you're welcome :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 01:57:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> there could be a solution, im just not aware of it </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 01:47:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Snippet - http://www.reddit.com/r/firefox/comments/39yf9n/how_do_i_restore_my_firefox_page_to_the_original/  
+
+
+i use ctrl+T and start typing away.  
+My New tab opens my about:newtab page. So i stay in the URL bar and can type away.  
+
+And yes you can type keywords in URL Bar and it will search for what you entered with a search engine or previously accessed URL's </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 01:34:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i think its a WIP:  
+https://bugzilla.mozilla.org/show_bug.cgi?id=820679  
+https://bugzilla.mozilla.org/show_bug.cgi?id=878288  
+
+Hope someone knows a temp solution.  
+Some more info of your situation(not real solutions though):   
+http://fedoramagazine.org/how-to-get-firefox-looking-right-on-a-high-dpi-display-and-fedora/  
+http://stackoverflow.com/questions/23099849/stop-firefox-dpi-scaling-when-windows-setting-is-at-125   
+
+
+EDIT-  
+https://addons.mozilla.org/en-US/firefox/addon/nosquint/ - FOR Text  
+https://addons.mozilla.org/en-US/firefox/addon/fxdpi/?src=search  
+https://addons.mozilla.org/en-US/firefox/addon/autohidpi/?src=search  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 01:23:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it'll go away soon, new announcements happen there from mozilla's side to create awareness.   
+in about:config "browser.aboutHomeSnippets.updateUrl" to empty value should do it(DISCLAIMER - ive not tested this personally so not sure of the consequences and dont blame me :) ) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-18 01:08:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i meant the OS theme, Windows Classic possibly, but anyway small thing </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-17 23:08:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> ah im really not sure on this, maybe you've switched system themes or so?   
+If im not wrong, its implemented by the OS so probably some theme is causing the trouble; orelse the only other possibility is that the CSS rendering is different for different browsers.  
+http://www.marioaraque.com/html-css-checkbox
+  
+Im on Linux currently, and im subject to the OS styling.  
+
+Bug related - https://bugzilla.mozilla.org/show_bug.cgi?id=605985 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-17 17:12:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> the '!' mark shows thats its not enabled, and thats the way it should be as default for now.   
+When webM gets properly implemented you'll have an awesome video experience on YouTube.   
+
+I don't really understand the tick boxes situation, could you please post a image/screenshot somewhere? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-17 16:45:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> in case your youtube is working fine then, i guess its okay.  
+
+If you're still having problems its better to start off with a fresh new profile.  
+
+Since you said webM is enabled on the youtube.com/html5 page, i thought it would be better to have a refresh/new profile created.  
+WebM is still under development and as such you'll run into issues with video playback.  
+You can disable it in about:config "media.mediasource.webm.enabled"  in case its still enabled.  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-17 10:12:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I'd recommend you to still refresh the browser and if that doesn't work out then create an a new profile and use Firefox.   
+
+https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles
+
+Mostly likely the old browser which is based on firefox has left some settings enabled and that's causing all your troubles.  
+Your YouTube video problems are most likely happening because you have webM support enabled   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-16 22:15:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> visit youtube.com/html5 and report here how many boxes are ticked and unticked.  
+
+If you've used FF before and then stopped using it, i'd recommend you start off with a fresh profile. If you don't want to do that then you can reset Firefox in Menu-Help-Troubleshoot Information  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-16 14:51:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This needs to be stickied!  
+Also info on HTML5 playback that webM is still under going development and its better not to turn it manually for normal usage.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-16 14:29:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The State Bank of India tells me I need an international card since purchases made in the Play Store count as International purchases. Whatever that means.
+
+You'll need to activate your card for international purchases. IIRC Cards before 2013 Dec have this On as default, new cards need to be activated for international purchasing.   
+Contact the cards dept of your bank and they'll walk you through the process.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-16 12:17:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Boooooob the builder! Can you build it?  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-11 21:22:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> and better not to, its still under development - webM that is </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-11 12:39:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you were talking of targeted advertising all the way down along with the data collection/usage etc.  
+
+Marketing by advertisement will require some form of data without which no marketing will work.  
+As long as Personal identity is not revealed or stolen, im fine with with being show products etc on my way based on things i find interesting.  
+If i like something ill buy or else chuck it off.  
+Humans aren't dumb to go on a purchasing spree because they see ads.  
+
+And atleast these are not some click-bait ads that lead you to some data theft/survey/questionable site.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-11 08:31:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah not really, you can buy don't know how far you'll go to achieve your results.   
+It's better to stick to gimp for that purpose  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-11 08:08:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hehe you're paranoid.  
+
+ good ads  
+
+Oh look the TV has ads! They are tracking you as well. Oh look at that street, it's filled with posters and ads. There are ad spies tracking what you look at O_O  
+/s </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-10 17:16:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> And the Web is always expanding and it's future not limited.  
+Being prepared is the best option.   
+
+People can keep complaining and criticizing.  
+Unless it's constructive, or contributes to a better future/implementation, there's no use for one.   
+
+Even in case of ads Mozilla, could and possibly I hope, will make ads less intrusive.  
+There are good ads and bad ads.  
+Good ones are far better than the bad. 
+There's absolutely nothing wrong in advertising unless you profit from unethical/unlawful use of user data.  
+
+To be a leader you have to start preparing now or else you play catch up till the end.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-10 16:48:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Here are a few things you could try:  
+Go into safe mode in Firefox and see if it's fine. If it's fine then Check troublesome addons.  
+
+Create a new profile. Remember to back up old Firefox data if you need them. 
+
+Use pipelight for flash on Linux. Yes this causes the browser to get stuck for a second or two as it loads pipelight but you'll have a much better flash experience.   
+It uses the latest flash version available on windows instead of the outdated Linux version of flash  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-10 07:58:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I suspect VR will definitely come to the Web in the future.  
+Everyone is investing on the tech right now.  
+Google showcasing the ability of cardboard on android could also mean that one day in the future we would have streamable VR content for maps, street view, movies, YouTube etc.   
+
+It's better they do put in resources now, than suffer a similar backlash that's happening with Electrolysis, MSE in the future.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-08 10:11:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Fire marketing completely.   
+
+Cut down on product portfolio.   Maintain 3-4 global devices.   
+Get the specs, camera and design right for the flagship.  
+The rest should be priced lower in the mid and low range will the best specs possible at those price range. 
+Let blogs/social media do the marketing job for you.    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-06 20:33:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  I'm afraid, I disliked Australis.. and immediately installed the Classic Theme Restorer addon.
+
+Its looks more like AutoCAD tabs than chrome/chromium tabs
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-06 16:15:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> works pretty good.  
+Shipped with Fedora 22 , gtk3 as default.  
+Issue's with readability on dark themes. Light themes works as good as the gtk2 port.  
+Not sure of the underlying tech but visually things are improving! :)   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-06 10:57:05 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Since you're on Linux, I'd recommend you to get pipelight.  
+It uses the latest version of flash available instead of the old Linux version.  
+And yes when you load a page, it'll feel it's stuck for a second or 2 but it's pipelight loading flash in the background.   
+
+For html5 videos, you can enable MSE in about:config.   
+Enable everything except webM support.   
+Check the status of html5 on YouTube.com/html5 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-05 00:43:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thats strange O_O  
+For me:
+"The HTML5 player is currently used when possible."  
+There should be an option to switch on that page itself.  
+
+Also you could resort to some add-ons to force enable it incase things don't work </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-05 00:19:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Also this to true:
+media.fragmented-mp4.gmp.enabled 
+
+the youtube.com/html5 should use html5 as default player by now hopefully. You can right click and check stats on video's </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-04 23:36:00 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> webM is still under-development.  
+Try keeping everything except webM enabled </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-04 20:49:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Strange that  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-04 12:05:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Set these to true
+
+media.mediasource.enabled  
+media.mediasource.format-reader.mp4  
+media.mediasource.mp4.enabled  
+media.fragmented-mp4.exposed  
+media.fragmented-mp4.ffmpeg.enabled </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 20:53:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I have everything except webM enabled on YouTube.com/html5  
+
+I'm happy with the adaptive streaming. 
+
+If you need some more control I think some add one works perfect, it's mentioned quite a lot here. You could search the previous posts. YouTube control center or something (development version).    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 20:32:37 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> webM still under development, so you'll encounter into issue.  
+Best option is to leave webm false untile later. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 20:30:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Ah thanks for that info, updated the bug to gtk3 since this affects wine and others too.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 17:05:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 17:05:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 17:05:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-03 16:40:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> for me using a sennheiser HD202 on my laptop i was able to uncover the 320/Uncompressed from the 128 quite easily.  
+Differentiating between the 320 and uncompressed was a little more difficult since the instruments play in the background.   
+Tom's Diner was quite easy to pick out, there was an airiness and depth to the voice on the uncompressed version. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-02 20:18:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah thats possible, a trail before a complete launch. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-02 18:50:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Witness Me!   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-02 18:28:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Battery life is best addressed by installing the correct Graphic drivers of your Mac. Don't really know how it works. Google will definitely help.  
+
+In-case they have the hybrid tech like Optimus(Intel+Nvidia) i think you'll need to go for bumblebee. Be sure to read more on the internet!   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-02 18:26:03 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Get gnome-tweak-tools.  
+
+
+Don't forget the HTitle extension for Firefox if that's your browser choice.  
+Avoid the dark-theme mode in Fedora for some time.  Firefox is still improving on the gtk3 support. The light themes work fine! :)  
+
+Free advice- try getting used to gnome without changing it at first. You'll love it. Incase you don't go for the Gnome extensions to suit your needs.  
+
+And remember to improve the fonts with Freetype-freeworld package or Infinality.(Check prev. post's on /r/Fedora for more info)   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-02 18:16:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you've enabled Testtube feature https://www.youtube.com/testtube </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-01 17:44:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> the end of Candy.  
+Other ones that hit me are The Great Gatsby and Seven Pounds endings </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-01 16:44:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> on linux gtk3-dark is pretty nice. Could definitely use improvements though.  
+I wish i knew a way to put australis tabs on the dark dev theme. love the dark look it has. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-01 09:19:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Happens to me on Linux if pipelight flash is enabled. Try disabling flash and loading the page.  
+On windows it mostly loads smooth for me.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-01 01:04:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> "lspci |grep -i VGA" single line output with only intel no worries.  
+Double-line output then bumblebee(if nvidia)   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-31 22:20:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Install the graphic driver if you have an nvidia or ati.  
+if you've got an intel+nvidia combo (optimus) install bumblebee.   
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-31 11:30:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Where did you find this?   
+It seems more of a bug to me.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-31 01:26:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> kinda yes, mostly wine, but my "open with" list is flooded with krita :(  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 23:51:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> voted on some of them :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 23:46:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Done it :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Multiple entries in "Open With" after upgrade to F22 </TITLE>
+	<DATE> 2015-05-30 23:07:39 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried to open a file with another app and noticed the same app repeating over and over again in the "Open With" Section.  
+Can be accessed by FilePropertiesOpen With 
+
+Edit: Filed a bug - https://bugzilla.redhat.com/show_bug.cgi?id=1227826 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> GTK3 Tabs - Suggestion </TITLE>
+	<DATE> 2015-05-30 22:22:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Tabs that are selected have this white light gradient that is highly contrasting with the entire black/dark look.  
+Something in this shade would be much better for selected tabs - http://people.mozilla.org/~shorlander/private-browsing-mode/mockups/australis-pbm.png  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 21:34:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> YAAAY! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 19:29:34 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  The obvious interpretation of 'Kids today' is usually a comparison to 'Kids of some other time'. 
+
+Hence the difference
+
+ I assumed it to mean a couple of things 
+
+"then things become unfair."
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 19:21:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  But you original line seemed to indicate that you think awareness has decreased.  
+
+Your interpretation. I never mentioned it decreased, just info not being spread as it should, so largely unchanged. 
+
+ You didn't answer my question at all.   
+
+O_O No thank you means - No.  
+So no to paying for a software just to type an essay in a paid software when i have a Free(in all its sense) software available that does exactly the same job.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 19:12:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  Orders of magnitude difference actually.
+
+There is a difference since curious people are on the internet researching/doing stuff. As a nationwide initiative, i feel it still needs more work.  
+
+ How much would you pay to type an essay in a word processor? 
+
+3000+ bucks for MS Office(1Year validity) and 10000+ for the OS? No thank you.   
+I can LibreOffice that export it to PDF/docx on Fedora for free.   
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 18:52:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  You seem to be more worried about price than freedom.
+
+I'm worried on both instance.  
+
+Kids today are hardly aware/taught that there are alternatives to proprietary software.  
+A notion that choice exists isn't being propagated.  
+Many are falling for marketing schemes. Its not just Microsoft.  
+eg. Look at Chrome and the way the marketed themselves on the road towards domination.  
+More people using an Android tied to Google than an untied version like CyanogenMod.  
+Win-Intel systems in schools when kids should also be exposed to Linux, Mac's, Raspberry Pi's and Aurdino's.   
+
+The illusion that it works makes it the best. Back in the old days you had to do some work to get things to work. Today not a bit. And its quite a knowledge black-hole when you don't know how things work in the background or the steps involved in making them work.   
+
+Also the beauty of free software, that you can view code, contribute to the project(Artwork/code etc.) and use it as well, makes it a much better source of practical programming and a robust source to gain knowledge.  
+
+On note of price - yes worried there too.  
+
+* A RaspPi's is much more affordable and does pretty well for general computing purpose.   
+* Open Hardware is the future as well.   
+* Free(cost) software means people can use apps/software without being hindered by money. Not all of us can afford the license cost to install a legal Windows copy, a cost to install MS Office, a cost to install Photoshop etc. on top of the cost required to buy the hardware.   
+
+Good things come at a good prices, some are worth the money! But if i end to empty my bank to type an essay in a word processor, then things become unfair.
+
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 18:17:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I do. Been a linux/FOSS user for 15+ years :)  
+
+Got nothing against proprietary unless they sabotage standards, open formats and kill people's freedom. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 17:53:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> This needs to be in /r/Fedora   
+I was playing around with Nightly GTK3 and thought i completely 'TIFU' firefox gtk2 on my system XD  
+Totally surprised that F22 ships with GTK3 :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 13:46:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> if you've got WebM enabled try disable that and see </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 09:41:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Everyone uses a Linux device directly or indirectly :P   
+Insert android/Internet xD </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 09:40:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Will take the example of school:   
+Being taught that Microsoft Office is the best and only tool that can do word processing etc. And that the competition is useless.   
+Children go home with the same mentality and are indirectly affected in buying paid software without being aware that there are amazing free alternatives like LibreOffice that do the same function at 0 cost.   
+
+
+Need to take a look at Europe who's encouraging Free Software growth and usage any where possible; especially in education and government adoption.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 09:32:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> True, but things like this shouldn't go unchecked.   
+Having to feed capitalism at every end of your computer needs is bad.   
+Competition should be fair.  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 09:31:09 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not without money. No lobbying happens without money.   
+This article is more awareness than lobbying though.    </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-30 00:29:08 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> These settings are the best for me:
+$ xrdb -query
+
+Xft.dpi: 96  
+Xft.hinting: 1  
+Xft.hintstyle: hintslight  
+Xft.lcdfilter: lcddefault  
+Xft.antialias: 1  
+Xft.rgba: rgb  
+Xcursor.size: 24  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-29 20:44:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> dangerous bijness for the future.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-29 19:59:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> it'll take time, Intel releases their version after quiet some time  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Microsoft Lobbying in India Shoots Down or At Least Weakens Free/Libre Software Policy </TITLE>
+	<DATE> 2015-05-29 19:44:29 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-29 12:25:50 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i think the problem is that liberation sans font is coming and overtaking all the proprietary fonts in the browser. The default liberation sans font has jagged edges.  
+Try changing the browser font settings instead of the system wide font settings </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-29 11:02:10 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Try freetype-freeworld or infinality for improving font rendering.  
+
+Chrome has comparatively bad font rendering for me. I use Firefox.   Perhaps you could check that out and see if it works out for you!   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 21:48:42 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> True, Microsoft have mysteriously been trying to be nice to other OpenSource projects now.  
+hope it doesn't end up on the "embrace extend extinguish" plan </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 18:28:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> GIMP is pretty okay, Try the old versions of blender! O_O   
+Love the new blender though :D </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 18:24:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  despite
+
+KDE has changed the entire experience now.  
+i personally love GNOME.   
+Best thing ive ever used it terms of speed/productivity. Switching between widows with the mouse has never been easier. i hardly reach for Alt+tab.    
+Get hang of it for a hour and your good to go! </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 18:21:51 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yes but what if i need to work offline and not interested in making another account for online work?  
+I get a full office suite with this app on desktop without much hassles/cost  
+Still cant understand why MS would keep office away from Linux now, Libre is also coming out with an online version too.  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 18:06:53 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Linux was also being told off with this statement; suddenly the entire world uses it, directly or indirectly ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 18:05:33 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> agreed!  
+Corporate mentality comes to home as well </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 18:04:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> you still have to pay for MS Office on desktop.   
+Libre is cross-platform ( for me a Linux user this is important)  
+Nothing is completely free with MS - only an illusion, strings attached somewhere or the other.  
+
+On another note:  
+It depends on a person's mentality, If he/she stands up for a brighter future then Open Source is better in the long run and more users means better development and contributors as well.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 17:18:44 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Export is much better now that in the past.  
+At least with Writer and Word the export is pretty good!  
+I mostly export to PDF from LibreOffice and it serves better.  
+
+The problem is proprietary formats, if you don't want to be an open standard then it is time to move on. People need to realize the fact that they themselves are breeding the source of evil. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-28 17:15:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> They will mostly improve on it with time. They've recently updated the look on the desktop. Once things get the required pace, and look 'n feel update will come.   
+
+First priority is to get things running and a bug-free experience :) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Document Foundation announces LibreOffice Viewer for Android </TITLE>
+	<DATE> 2015-05-28 13:43:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-27 11:57:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Method 1 : http://www.reddit.com/r/Fedora/comments/12jetj/you_dont_need_infinality_for_pretty_text/
+
+Method 2 : http://www.webupd8.org/2013/06/better-font-rendering-in-linux-with.html </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-27 11:53:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  had to Google around to figure out how to use GNOME Tweak Tool to make my fonts look better.
+
+Also Infinality for fonts if you dont like freetype-freeworld </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-26 16:48:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Use the browser in safe mode. Check if it occurs there. If it does not, an extension is your problem   
+
+Why hang onto Flash? Chrome, Firefox everyone is trying their best to kill it off. Chrome already enforces it on YouTube.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-26 10:46:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Menu  options/preferences  advanced  general  uncheck use hardware acceleration  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-26 00:35:12 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> try the disabling HWA only if the problem doesn't go away after the update </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-25 23:22:24 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> try disable HWA and check.  
+Do update FF, lots of improvements have come in. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-25 22:37:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> update firefox and enable html5 at youtube.com/html5
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-25 15:30:47 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Affordability. Usability. Need.  
+
+* I dont find the point in getting the high-end when a better high-end comes out the following year.  
+* If a mid-range can work and do all that i need then why bother with a high end?  
+* Plus all the high-ends have a huge price tag that makes it over-rated and inflated value.  
+* Probably the only good thing on a higher end device to me would be the camera, but if you can spend so much on one why not get a DSLR?   
+* Updates are still slow unless you are on a nexus.   
+
+Doesn't justify the cost for me personally.  
+
+Spending so much and getting outdated with a newer product in a years usage feels like a waste.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-25 12:39:23 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> 600MB is quite odd. i hope they check out the crash reports.  Hopefully you aren't using extensions.  
+I think lollipop might be better suited.   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-25 10:21:14 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Valhalla Awaits :D 
+
+Edit: 
+Tried it out and i love it! It works fine as well as the gtk2 version for me.  
+Looks pretty neat on Non-Dark GTK themes.   
+Few Issues:  
+ 
+* There are few readability issues on the Dark Theme versions(Numix; Adwaita) on GNOME like the drop down boxes on booking.com and initial loading of google.com shows the search bar as black before turning white.   
+
+* I wish we could get rid of the BIG FAT title bar, but HTitle add-on is quite the savior. 
+
+* And in "Get Add-ons" there is a big white space at the bottom
+
+* Amazon tab keep stopping and showing the spinner every second before it completely loads.  
+
+* Scroll bars disappears on booking.com drop down boxes while scrolling from bottom to top - Date; Month.  
+
+Typed the edit on gtk 3 :D  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 21:27:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> for gmail i think it auto open them in new tabs, you'll have to normal click them </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 19:15:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> You can right click and open in Private Window on Unity Ubuntu.  
+As far as GNOME based linux distro's are concerned, it does not seem possible.   
+I think it'll be addressed in the upcoming GNOME releases.  
+Not sure but do try out Gnome Shell extensions, there could be one for this purpose. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 19:12:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Menu - Preferences - General - Uncheck "When I open a link in a new tab, switch to it immediately"  
+
+Use middle mouse button to open links in new tab or Ctrl+ left click on laptop ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 19:07:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> glad it worked out for you :)  
+i hoped it would work out, because i also experienced sudden closing of the browser before but im able to browser way better with recent than before. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 19:05:25 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> stable does support extension.  
+
+ It can't even render pinch zooms properly after five minutes, and crashed multiple times.
+
+Try reinstalling  
+If you have time do file a bug report </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 13:38:26 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I've been using FF beta on moto g Lollipop,  
+And seems fine, I browse for 20-30mins at a stretch and it doesn't randomly crash like before  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-24 13:36:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Use ublock, lighter extension  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-23 23:41:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Facebook app uses the built it WebView of Chrome on Android.  
+You can open links in external browser like Firefox by changing the app settings inside the facebook app :)  
+
+I hate both of them help each other track people x_x </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-23 09:24:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> do you have WebM enabled in youtube.com/html5 ? If yes, then try disable it in about:config </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-22 23:16:38 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I am so sorry for your loss    
+I'm sure Kitten's blessings and love will follow you forever.    
+
+You sir are an awesome human being!  
+Thank you for sharing this story.  
+I hope good things and good times come to you!   </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-22 22:45:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Yes! It should be on the affordable side though.  
+Low price and good specs can be achieved these days!  
+I wish Mozilla comes out with more mid-tier phones that function as good as the others if not better 
+
+Best strategy would he like Motorola 
+3 phone lines like the moto e, moto g and moto x 
+Everything shall work out good afterwards  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-22 14:24:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> [new profile](https://support.mozilla.org/en-US/kb/profile-manager-create-and-remove-firefox-profiles)
+
+Edit:
+id suggest you update your graphic drivers(intel/nvidia) and then turn on HWA.
+HWA should speed up video performance </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-21 10:29:49 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That's surprising, I felt the opengl version to be much faster and smoother. Running into stability issues though with opengl </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-20 18:35:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i think yes, without it its Basic OMTC and with it you get OpenGL OMTC </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-19 16:55:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> for google + privacy use [startpage](https://startpage.com/)  
+Its better to use different engines from time to time. On phone i avoid Chrome and use Firefox as well, unless there is a need for which i use Opera 
+
+EDIT - Check [Tor on Android](https://www.torproject.org/docs/android.html.en) - [Orbot](https://play.google.com/store/apps/details?id=org.torproject.android hl=en) - you might like it but its slow, so patience  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-18 16:30:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thank you so much for sharing this!   
+He fixed my lenovo laptop camera  
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-17 22:34:30 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Get HTitle add-on!  
+Enjoy! ;) </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-16 20:38:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> i think its an indicator of support. Actual implementation will come to linux later </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-16 19:10:07 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Whats your hardware specs?  
+Did you try creating a fresh profile? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-16 18:27:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> yeah i've read that, still seems confusing. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-05-16 18:21:55 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That helps performance as a plus, i hope im right.  
+My laptop has hybrid graphics (Intel+Nvidia GT525M).
+I've gone ahead(experimenting) and installed libva-intel-driver, libva-utils, libva-vdpau-driver;  
+Any idea why it isn't installed as default?
+ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> VAAPI   VDPAU packages installion </TITLE>
+	<DATE> 2015-05-16 18:03:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Why isn't VAAPI   VDPAU packages installed by default on Intel hardware that supports it? Is it necessary to have them?   
+I've searched around but i find technical stuff, can someone help me understand if this'll help in a performance boost or so? </TEXT>
+</WRITING>
+</INDIVIDUAL>

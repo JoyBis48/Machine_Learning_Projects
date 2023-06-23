@@ -1,0 +1,255 @@
+<INDIVIDUAL>
+<ID>test_subject9196</ID>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-22 10:56:16 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> We had an Android Wear watchface for few months, but it was using old (now deprecated) API and we took it off store.
+Currently we are working on:
+Hardware clock, updated Android app with many neat (I hope so) features, and then Wear watchface.
+
+Sorry to put this on the end but we are rewriting whole app to make rending clock faster and more flexible to many situations, and then we can work on watchface with awesome performance. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-22 10:53:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, I just fixed those mentioned and ask native friend to make a full proofread with some fixing style. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-21 22:27:18 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry if it sounded off putting.
+My previous posts was mostly - tinkering is awesome and I really recommend it (even if you "end up buying mine") as you will have tons of fun, and maybe we have missed some important thing.
+Also I already developed (for now a beta part) an API for 12hours to allow 3rd party devs to play with this, as I can find one, two... uses for this but I'm sure there are tons more. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Calendar and clock combined to show your events on a analog clock watch face </TITLE>
+	<DATE> 2015-07-21 22:16:40 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-21 22:11:15 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Once I find a bit of free time I will make a (probably) medium short story how it went from idea (3 years ago) to current state (and hopefully to product on the market).
+
+Let's just say it was a lot of tinkering, seeing what works, what doesn't, what we should improve, what are key aspects, polishing design, polishing design etc.
+
+And don't get me wrong, attaching LEDs to a clock was easy but for example figuring out that it is good to move from wall clock to desk one is a better idea was tricky part. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-21 21:57:46 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Thanks, I have added paragraph "what?" near top to make it more clear. Hope it is fine now. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Your calendar and clock combined. Putting your calendar events on a clock watch face to visualize them... with style. </TITLE>
+	<DATE> 2015-07-21 19:37:27 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Thanks for making 12Hours a hit, we are live with smart physical clock (soon crowdfunding) </TITLE>
+	<DATE> 2015-07-21 19:15:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-21 00:35:04 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Sorry didn't tested it via VPN, maybe some server lag. I changed an hour ago setting where it is available  and description - description was refreshed thus I though it is also available worldwide. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-19 20:40:41 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I tried similar thing at my old Asus UX32VD - swapping screens between 2014 and 2012 edition. With no luck. Screen was fine but they used cable with different length that had weird angle at one place... I wasn't able to bought it - so I gave up.
+
+So be prepared for that kind of stuff. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-16 15:04:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> How about existing quadrocopter with assault rifle on a gimbal  - https://www.youtube.com/watch?v=SNPJMk2fgJU </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> It should be "blessed by" not "recommended by" </TITLE>
+	<DATE> 2015-07-14 16:12:17 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-13 20:56:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know what kind of app are you making, but I would recommend going through Google flags apps like Gmail, Newsstand, Play Store itself and check things like button presses. They do not have touch. Even Google Maps sound is limited to voice commends which is key-feature.
+
+One app that I'm aware that stands out is Facebook - sound on refresh, but they are big enough to push their own ideas across platforms.
+
+I'm not sure how it looks currently but at some point also Twitter from what I recall had some sounds on refresh list. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-13 20:12:48 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Not a source but considering your example (button clicks) -  don't do this. For one simple reason - many users have build in system sound for click on touch screen (ex. LG by default), which will be supper annoying.
+
+Or just offer simple way to turn it off.
+
+Also it is not common to implement sounds in apps (if we consider UI - as refreshes, buttons etc.) probably in most cases only notifications are "loud". Of course this doesn't apply to for example music apps for obvious reasons. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Talking about movies that would be banned in "today's society"... </TITLE>
+	<DATE> 2015-07-13 18:44:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-09 23:27:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Great sample project for this: https://github.com/eskimoapps/ResourceNestingExample </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> Folders inside res/layout? Yup! </TITLE>
+	<DATE> 2015-07-09 22:48:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-08 22:27:45 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> That would be nice, any suggestions with "easy-to-understand" English and/or subtitled shows? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-08 22:20:31 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Good one, need to ask my SO as she watches as well tons of it on Youtube so maybe solution is that easy. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-08 22:14:32 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Cooking and tennis (both playing and watching).
+Probably recipe book in English is a bit boring and will be off putting. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> What is best next step after Duolingo for grandma? </TITLE>
+	<DATE> 2015-07-08 21:32:20 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Hi,
+I installed Duolingo on my grandma tablet and she started learning at amazing peace and eager. Started with 0 language knowledge around a month ago.
+Her native language is Polish and Duolingo offering Polish-English course was a big plus.
+My guess was to start with movies in English with Polish subtitles as probably her reading skills are better than listening. Other idea is to convince her to go for special course. What are your recommendations for older people? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-08 01:11:58 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Chet Haase - Patterns, Shmatterns
+
+https://www.parleys.com/tutorial/quickie-patterns-shmatterns </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-07-08 01:06:35 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://www.mashape.com/ </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> After good reviews of Witcher 3 it is good to recall amazing Cyberpunk 2077 intro, also by CD Project Red. </TITLE>
+	<DATE> 2015-07-05 23:13:06 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT>  </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-21 16:20:57 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I don't know where you live but in my area apart from Hackathons (which probably aren't best fit for you as you are looking for a not that rapid developing) there are dozens of meeting to solve some problems in society - for example http://kodujdlapolski.pl/ which means "code for Poland" and in most of their meetings there are at least few ideas and always too little dev people.
+
+Another idea is to take some popular Android app that is abandoned for a while (bad UI, slow etc.) and make it much better - just be aware of trade marks etc.
+
+Also probably /r/Android or /r/enterpreneur is better to give you just an idea for an app. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-21 11:38:02 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Mine does (X1 2015) when CPU is used and I scroll too fast, is there way to turn this off? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE> The Story of AppChat, and Why Android is a Better Platform for Startups than iOS </TITLE>
+	<DATE> 2015-06-20 23:27:11 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> If you think about mobile startup - nice and short reading.
+
+Also as a mobile dev - I can highly agree with author.
+https://medium.com/@pents90/the-story-of-appchat-and-why-android-is-a-better-platform-for-startups-than-ios-6d0847427fb1 </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-20 00:58:01 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Take into account Lenovo flex 2 14 or X1 as wel fit your size needs.
+
+Basically all Lenovo have not most bright screen - so if you would like to work on sunny beach, you might consider other laptop (Dell for example).
+
+Source: owner of X1 na SO has a Flex 2.
+
+EDIT: You are asking at /r/thinkpad for dell noise issues? sry? </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-17 02:11:19 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Went from 10 to 300, not going back. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-15 12:24:43 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Go for some used Samsung old flagship - as S2 or S3.
+They are still popular, and some errors as Samsung-specific from what I saw.
+
+Moto E is nice but, hey it is almost vanilla Android so there is almost no chance of getting an error. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-14 23:39:13 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> https://vimeo.com/18293265 
+
+Skip to 0:45, and 2:27 is probably one of most beautiful shots I have ever seen. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-10 22:05:22 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> I use Win 8.1 (came with win 7 - uh). 
+HDPI is fine, now using FullHD on 24" is a pain ( a bit joking but hell, you get addicted to hdpi).
+There is no many issues with hdpi - mainly scaling in not round way ( 100% is supper small, 150% is fine, but 123% for example is blurry in many place), some installers are a bit blurry but I hope with Win 10 it will be a bit better (also steam application is not hdpi-friendly). Probably HD on 14" is just enough but QHD is only version that was available here in Poland with i7. </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-10 22:00:56 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> Polish "PLAY". </TEXT>
+</WRITING>
+<WRITING>
+	<TITLE>   </TITLE>
+	<DATE> 2015-06-10 11:10:52 </DATE>
+	<INFO> reddit post </INFO>
+	<TEXT> X1 3rd gen i7, non-touch QHD maks brightness with developing in Android Studio + chrome + emulator = around 5,5-6h
+Screen could be more bright, touchpad one or two times (since 2 months) had some problems - trackpoint not, restart helped.
+Overally happy but 8GB is a bit of pain, 12GB would be perfect. Would buy it second time - also LTE is super nice (even if before buying it wasn't key feature) having 1GB per month for 15$ a year is super nice fallback. </TEXT>
+</WRITING>
+</INDIVIDUAL>
